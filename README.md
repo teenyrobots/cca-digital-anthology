@@ -1,2 +1,2 @@
-# cca-digital-anthology-2020
-Annual update to comics.cca.edu
+# comics2019
+repo for 2019 comics website update

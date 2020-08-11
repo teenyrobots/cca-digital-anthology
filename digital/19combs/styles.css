@@ -1,0 +1,80 @@
+/* This is the style sheet for Magical Boys VS Zombies */
+
+@font-face {
+    font-family: "AlexFont";
+    src: url("AlexFont.ttf");
+}
+
+body {
+    background-color: slategrey;
+    font-family: AlexFont;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.mainDiv {
+    position: relative;
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    padding: 1rem;
+}
+
+.mainDiv img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+    
+}
+
+.musicDiv {
+    width: 100%;
+    max-width: 100px;
+    display: block;
+    margin: auto;
+    
+}
+
+.clicker {
+    cursor: pointer;
+}
+
+.popOut {    
+    border: hotpink solid 10px;
+}
+
+ /*
+.fixedElement{
+    position: fixed;
+    padding: .5rem;
+    top: 1rem;
+    right: 17rem;
+    z-index: 1000;
+}
+*/
+
+
+
+.absolutePanel {
+    position: absolute;
+    top: 0;
+    left: 2rem;
+    z-index: 1000;
+
+}
+
+
+/* .navDiv {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 500px;
+    align-items: center;
+} */
+
+  
