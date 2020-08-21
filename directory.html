@@ -14,7 +14,7 @@
 </head>
 
 
-<body>
+<body class="comicBG directory">
 
 
     <noscript>
@@ -35,7 +35,14 @@
             </div>
         </div>
 
-        <div class="cardDad">
+        <div class="cardDad cardDad-buttonTiles">
+
+            <div class="button">
+                <a href="#2020">
+                    <h3>class of</h3>
+                    <h2>2020</h2>
+                </a>
+            </div>
 
             <div class="button">
                 <a href="#2019">
@@ -74,6 +81,11 @@
         </div>
 
         <div id="grads">
+
+            <div class="year" id="2020">
+                <h3>class of <span style="font-weight: 400">2020</span></h3>
+            </div>
+            <div class="cardDad" id="cards2020"></div>
 
             <div class="year" id="2019">
                 <h3>class of <span style="font-weight: 400">2019</span></h3>
@@ -131,73 +143,7 @@
             crossorigin="anonymous"></script>
 
 
-    <script>
-
-        // takes student object, returns jQuery object
-        function makeStudentCard(student) {
-            let studentDiv = null;
-            var name = student.displayName,
-                    slug = student.slug,
-                    thesisUrl = 'thesis.html?student=' + slug,
-                    digitalUrl = 'digital/' + student.digitalUrl,
-                    thesisTitle = student.thesisTitle,
-                    digitalTitle = student.digitalTitle,
-                    thesisPages = student.thesisPages;
-
-            if (!digitalTitle) {
-                studentDiv = $("<div class='studentCard'>" + "<h1>" + name + "</h1><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>");
-            } else {
-                studentDiv = $("<div class='studentCard'>" + "<h1>" + name + "</h1><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
-            }
-
-            return studentDiv;
-        };
-
-
-
-        function setSplash(students) {
-            var rando = Math.floor(Math.random() * students.length);
-            var luckyStudent = students[rando];
-
-            var backgroundImg = "images/backgrounds/" + rando + ".jpg";
-            $('body').css('background-image', 'url(' + backgroundImg + ')');
-
-            $('#luckyStudent').append(luckyStudent.displayName);
-            $('#luckyCartoon').append(luckyStudent.thesisTitle);
-            $('#luckyThesis').attr('href', 'thesis.html?student=' + luckyStudent.slug);
-        }
-
-        $(document).ready(function() {
-
-            $.getJSON('data/students.json', function(data) {
-
-                //
-                // set background to random student art
-                //
-                var backgroundStudents = data.students.filter(function(student){
-                    return student.backgroundImage !== undefined;
-                });
-
-                setSplash(backgroundStudents);
-
-
-                //
-                // make student cards
-                //
-                data.students.map(function(student) {
-                    var studentCard = makeStudentCard(student);
-                    var classCardId = "#cards" + student.year;
-                    $(classCardId).append(studentCard);
-                });
-
-
-
-
-            });
-
-        });
-
-    </script>
+    <script src="script.js"></script>
 
 
 </body>

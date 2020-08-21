@@ -260,6 +260,10 @@ p {
     margin-top: 1em;
 }
 
+.cardDad-buttonTiles {
+    max-width: 600px !important;
+}
+
 .cardDad .button {
     margin: 1em 0;
 }

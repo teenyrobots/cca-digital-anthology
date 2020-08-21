@@ -14,7 +14,7 @@
 </head>
 
 
-<body>
+<body class="comicBG">
     <noscript>
         You need to enable JavaScript to run this app.
     </noscript>
@@ -65,41 +65,43 @@
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous"></script>
 
-    <script>
+    <script src="script.js"></script>
 
-        function setSplash(students) {
-            var rando = Math.floor(Math.random() * students.length);
-            var luckyStudent = students[rando];
+    <!-- <script>
 
-            var backgroundImg = "images/backgrounds/" + rando + ".jpg";
-            $('body').css('background-image', 'url(' + backgroundImg + ')');
+    function setSplash(students) {
+        var rando = Math.floor(Math.random() * students.length);
+        var luckyStudent = students[rando];
 
-            $('#luckyStudent').append(luckyStudent.displayName);
-            $('#luckyCartoon').append(luckyStudent.thesisTitle);
-            $('#luckyThesis').attr('href', 'thesis.html?student=' + luckyStudent.slug);
-        }
+        var backgroundImg = "images/backgrounds/" + rando + ".jpg";
+        $('body').css('background-image', 'url(' + backgroundImg + ')');
 
-
-        $(document).ready(function() {
-
-            $.getJSON('data/students.json', function(data) {
-
-                //
-                // set background to random student art
-                //
-                var backgroundStudents = data.students.filter(function(student){
-                    return student.backgroundImage !== undefined;
-                });
+        $('#luckyStudent').append(luckyStudent.displayName);
+        $('#luckyCartoon').append(luckyStudent.thesisTitle);
+        $('#luckyThesis').attr('href', 'thesis.html?student=' + luckyStudent.slug);
+    }
 
 
-                setSplash(backgroundStudents);
+    $(document).ready(function() {
 
+        $.getJSON('data/students.json', function(data) {
+
+            //
+            // set background to random student art
+            //
+            var backgroundStudents = data.students.filter(function(student){
+                return student.backgroundImage !== undefined;
             });
+
+
+            setSplash(backgroundStudents);
 
         });
 
+    });
 
-    </script>
+
+    </script> -->
 
 </body>
 

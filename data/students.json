@@ -2,7 +2,7 @@
   "students": [
     {
       "displayName": "Trinidad Escobar",
-      "slug": "escobar",
+      "slug": "15escobar",
       "year": "2015",
       "thesisPages": 12,
       "thesisTitle": "Flood",
@@ -19,7 +19,7 @@
       "digitalTitle": "Aisling",
       "digitalUrl": "15freund/freund.html",
       "thesisPath": "15freund/",
-      "backgroundImage": "images/backgrounds/2.jpg"
+      "backgroundImage": "2"
     },
     {
       "displayName": "Ashley Guillory",
@@ -30,7 +30,7 @@
       "digitalTitle": "Morning Melody",
       "digitalUrl": "15guillory/guillory.html",
       "thesisPath": "15guillory/",
-      "backgroundImage": "images/backgrounds/1.jpg"
+      "backgroundImage": "1"
     },
     {
       "displayName": "David Kelly",
@@ -51,7 +51,7 @@
       "digitalTitle": "Night Driving",
       "digitalUrl": "15kobabe/kobabe.html",
       "thesisPath": "15kobabe/",
-      "backgroundImage": "images/backgrounds/3.jpg"
+      "backgroundImage": "3"
     },
     {
       "displayName": "Jacob Magraw",
@@ -92,7 +92,7 @@
       "digitalTitle": "I Went on a Walk and I Saw a Snake",
       "digitalUrl": "15white/white.html",
       "thesisPath": "15white/",
-      "backgroundImage": "images/backgrounds/4.jpg"
+      "backgroundImage": "4"
     },
     {
       "displayName": "Shane McDermott",
@@ -113,7 +113,7 @@
       "digitalTitle": "This Will All End in Flames",
       "digitalUrl": "16bitinis/comics.html",
       "thesisPath": "16bitinis/",
-      "backgroundImage": "images/backgrounds/5.jpg"
+      "backgroundImage": "5"
     },
     {
       "displayName": "Kayan Cheung-Miaw",
@@ -124,7 +124,7 @@
       "digitalTitle": "The Experience of Many Lifetimes",
       "digitalUrl": "16cheungmiaw/kayan_cover.html",
       "thesisPath": "16cheungmiaw/",
-      "backgroundImage": "images/backgrounds/6.jpg"
+      "backgroundImage": "6"
     },
     {
       "displayName": "Peter Glanting",
@@ -155,7 +155,7 @@
       "digitalTitle": "Death",
       "digitalUrl": "16inoue/home.html",
       "thesisPath": "16inoue/",
-      "backgroundImage": "images/backgrounds/7.jpg"
+      "backgroundImage": "7"
     },
     {
       "displayName": "Cordelia McGee-Tubb",
@@ -166,7 +166,7 @@
       "digitalTitle": "Brocedurally Generated",
       "digitalUrl": "16mcgeetubb/index.html",
       "thesisPath": "16mcgeetubb/",
-      "backgroundImage": "images/backgrounds/8.jpg"
+      "backgroundImage": "8"
     },
     {
       "displayName": "Paul Morehead",
@@ -187,7 +187,7 @@
       "digitalTitle": "The Crystal Ball",
       "digitalUrl": "16olson/pg1.html",
       "thesisPath": "16olson/",
-      "backgroundImage": "images/backgrounds/9.jpg"
+      "backgroundImage": "9"
     },
     {
       "displayName": "Wei-Ching Shyu",
@@ -218,7 +218,7 @@
       "digitalTitle": "Snack Time",
       "digitalUrl": "16williams/comics.html",
       "thesisPath": "16williams/",
-      "backgroundImage": "images/backgrounds/10.jpg"
+      "backgroundImage": "10"
     },
     {
       "displayName": "Rachell Sumpter",
@@ -230,6 +230,11 @@
       "digitalUrl": "",
       "thesisPath": "16sumpter/"
     },
+
+
+
+
+
     {
       "displayName": "Tris Bain",
       "slug": "bain",
@@ -239,7 +244,7 @@
       "digitalTitle": "The Key & Cup",
       "digitalUrl": "17bain/index.html",
       "thesisPath": "17bain/",
-      "backgroundImage": "images/backgrounds/11.jpg"
+      "backgroundImage": "11"
     },
     {
       "displayName": "Eli Bishop",
@@ -250,7 +255,7 @@
       "digitalTitle": "Spex",
       "digitalUrl": "17bishop/index.html",
       "thesisPath": "17bishop/",
-      "backgroundImage": "images/backgrounds/12.jpg"
+      "backgroundImage": "12"
     },
     {
       "displayName": "Craig Campbell",
@@ -261,7 +266,7 @@
       "digitalTitle": "Skinhead Mixtape",
       "digitalUrl": "17campbell/index.html",
       "thesisPath": "17campbell/",
-      "backgroundImage": "images/backgrounds/13.jpg"
+      "backgroundImage": "13"
     },
     {
       "displayName": "Lauren Davis",
@@ -282,7 +287,7 @@
       "digitalTitle": "Dungeon Dude: Quest for the Golden Duck",
       "digitalUrl": "17gainey/index.html",
       "thesisPath": "17gainey/",
-      "backgroundImage": "images/backgrounds/14.jpg"
+      "backgroundImage": "14"
     },
     {
       "displayName": "Patrick Lay",
@@ -293,7 +298,7 @@
       "digitalTitle": "Look Beneath",
       "digitalUrl": "17lay/index.html",
       "thesisPath": "17lay/",
-      "backgroundImage": "images/backgrounds/15.jpg"
+      "backgroundImage": "15"
     },
     {
       "displayName": "Yael Leah Levy",
@@ -325,6 +330,11 @@
       "digitalUrl": "17ramm/index.html",
       "thesisPath": "17ramm/"
     },
+
+
+
+
+
     {
       "displayName": "Kellyn Borst",
       "slug": "borst",
@@ -334,7 +344,7 @@
       "digitalTitle": "MARS 2056",
       "digitalUrl": "18borst/index.html",
       "thesisPath": "18borst/",
-      "backgroundImage": "images/backgrounds/15.jpg"
+      "backgroundImage": "15"
     },
     {
       "displayName": "Phillip Fleming",
@@ -345,7 +355,7 @@
       "digitalTitle": "The Final Round",
       "digitalUrl": "18fleming/index.html",
       "thesisPath": "18fleming/",
-      "backgroundImage": "images/backgrounds/16.jpg"
+      "backgroundImage": "16"
     },
     {
       "displayName": "Guo Tianyi",
@@ -356,7 +366,7 @@
       "digitalTitle": "Fox & Rabbit",
       "digitalUrl": "18guo/fr1-1.html",
       "thesisPath": "18guo/",
-      "backgroundImage": "images/backgrounds/17.jpg"
+      "backgroundImage": "17"
     },
     {
       "displayName": "Sean Marney",
@@ -367,7 +377,7 @@
       "digitalTitle": "The Future Now",
       "digitalUrl": "18marney/index.html",
       "thesisPath": "18marney/",
-      "backgroundImage": "images/backgrounds/18.jpg"
+      "backgroundImage": "18"
     },
     {
       "displayName": "Fouad Mezher",
@@ -378,7 +388,7 @@
       "digitalTitle": "Bradley's Vison Quest",
       "digitalUrl": "18mezher/index.html",
       "thesisPath": "18mezher/",
-      "backgroundImage": "images/backgrounds/19.jpg"
+      "backgroundImage": "19"
     },
     {
       "displayName": "Andrew Simpson",
@@ -389,7 +399,7 @@
       "digitalTitle": "Desert Kingdom",
       "digitalUrl": "18simpson/index.html",
       "thesisPath": "18simpson/",
-      "backgroundImage": "images/backgrounds/20.jpg"
+      "backgroundImage": "20"
     },
     {
       "displayName": "Eric Wong",
@@ -400,7 +410,7 @@
       "digitalTitle": "MausIII: The Movie",
       "digitalUrl": "18wong/index.html",
       "thesisPath": "18wong/",
-      "backgroundImage": "images/backgrounds/21.jpg"
+      "backgroundImage": "21"
     },
     {
       "displayName": "DT Watson Jr.",
@@ -411,8 +421,13 @@
       "digitalTitle": "",
       "digitalUrl": "",
       "thesisPath": "18watson/",
-      "backgroundImage": "images/backgrounds/22.jpg"
+      "backgroundImage": "22"
     },
+
+
+
+
+
     {
       "displayName": "Sierra Barnes",
       "slug": "barnes",
@@ -424,6 +439,11 @@
       "thesisPath": "19barnes/",
       "backgroundImage": 23
     },
+
+
+
+
+
     {
       "displayName": "Alex Combs",
       "slug": "combs",
@@ -533,6 +553,143 @@
       "digitalUrl": "19timm/index.html",
       "thesisPath": "19timm/",
       "backgroundImage": 33
+    },
+
+
+
+
+
+    {
+      "displayName": "Will Betke-Brunswick",
+      "slug": "20betkebrunswick",
+      "year": "2020",
+      "thesisPages": 19,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "Logarithms Why? How? Who Cares?",
+      "digitalUrl": "20betkebrunswick/",
+      "thesisPath": "20betkebrunswick/",
+      "backgroundImage": "20betkebrunswick"
+    },
+    {
+      "displayName": "Daniel Dahan",
+      "slug": "20dahan",
+      "year": "2020",
+      "thesisPages": 9,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20dahan/",
+      "backgroundImage": "20dahan"
+    },
+    {
+      "displayName": "Talia Dutton",
+      "slug": "20dutton",
+      "year": "2020",
+      "thesisPages": 10,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20dutton/",
+      "backgroundImage": "20dutton"
+    },
+    {
+      "displayName": "Dustin Garcia",
+      "slug": "20garcia",
+      "year": "2020",
+      "thesisPages": 24,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20garcia/",
+      "backgroundImage": "20garcia"
+    },
+    {
+      "displayName": "Hinahina Gray",
+      "slug": "20gray",
+      "year": "2020",
+      "thesisPages": 19,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20gray/",
+      "backgroundImage": "20gray"
+    },
+    {
+      "displayName": "Lawrence Lindell",
+      "slug": "20lindell",
+      "year": "2020",
+      "thesisPages": 13,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20lindell"
+    },
+    {
+      "displayName": "Michael Rossi",
+      "slug": "20rossi",
+      "year": "2020",
+      "thesisPages": 19,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20rossi"
+    },
+    {
+      "displayName": "Sonya Saturday",
+      "slug": "20saturday",
+      "year": "2020",
+      "thesisPages": 9,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20saturday"
+    },
+    {
+      "displayName": "Laura Shoemaker",
+      "slug": "20shoemaker",
+      "year": "2020",
+      "thesisPages": 9,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20shoemaker"
+    },
+    {
+      "displayName": "Lucas Soto",
+      "slug": "20soto",
+      "year": "2020",
+      "thesisPages": 14,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20soto"
+    },
+    {
+      "displayName": "Claire Tomasi",
+      "slug": "20tomasi",
+      "year": "2020",
+      "thesisPages": 9,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "20lastname",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20tomasi"
+    },
+    {
+      "displayName": "Gaia Weise",
+      "slug": "20weise",
+      "year": "2020",
+      "thesisPages": 25,
+      "thesisTitle": "Thesis title TKTKTKTK",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "20lastname/",
+      "backgroundImage": "20weise"
     }
   ]
 }
