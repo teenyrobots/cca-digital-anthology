@@ -11,9 +11,9 @@ function makeStudentCard(student) {
             digitalTitle = student.digitalTitle,
             thesisPages = student.thesisPages;
     if (!digitalTitle) {
-        studentDiv = $("<div class='studentCard'>" + "<h1>" + name + "</h1><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>");
+        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>");
     } else {
-        studentDiv = $("<div class='studentCard'>" + "<h1>" + name + "</h1><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
+        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
     }
     return studentDiv;
 };
