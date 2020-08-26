@@ -1,0 +1,84 @@
+@font-face{
+    font-family: "NewsflashBB";
+    src:    url("NewsflashBB.otf");
+}
+@font-face{
+    font-family: "Kaushan";
+    src:    url("KaushanScript-Regular.otf");
+}
+
+body {
+    padding-top: 9rem;
+    text-align: center;
+}
+
+body img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:0 auto;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+}
+
+.titleContainer {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    background-color: white;
+    z-index: 100;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: "NewsflashBB";
+    margin: .5rem;
+    color: rgb(222, 11, 32);
+    letter-spacing: .3rem;
+}
+
+p {
+    font-size: 1.1rem;
+    font-family: "Kaushan";
+    color: black;
+    margin-top: -.5rem;
+}
+#withSam {
+    position: relative;
+    top: -.5rem;
+    font-size: .9rem;
+}
+
+img{
+    max-width: 100%;
+}
+
+.sfxcontrol {
+    cursor: pointer;
+}
+
+a:link{
+    color: blue;
+    position: fixed;
+    bottom: .7rem;
+    right: .7rem;
+    font-size: 1.17rem;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    text-decoration: overline underline;
+}
+
+#attribution {
+    position: relative;
+    text-align: center;
+}

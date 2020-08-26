@@ -1,0 +1,449 @@
+/* styles for my css demo */
+
+body {
+    background-color: black;
+    color:blue;
+}
+
+/*This keeps all imgs from bleeding outside their parent element*/
+img {
+    max-width: 100%;
+}
+
+.positionParent {
+    /*The parent needs a position of relative in order for layering to work*/
+    position: relative;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 600px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+}
+
+.startbutton {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 0%;
+    left: 0%;
+}
+
+.page1image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page1continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    display: block;
+    margin: auto;
+
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 90%;
+    left: 16%;
+}
+
+.page2image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page2continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    display: block;
+    margin: auto;
+
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 90%;
+    left: 16%;
+}
+
+.page2halfcontinue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 70%;
+    left: 16%;
+}
+
+.page3image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page3callbutton {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 64%;
+    left: 3%;
+}
+
+.page3panicbutton {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 80%;
+    left: 5%;
+}
+
+
+.page4image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page4cargone {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 85%;
+    left: 3%;
+}
+
+.page4freakout {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 92%;
+    left: 5%;
+}
+
+
+.page5image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+
+.page5continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 80%;
+    left: 16%;
+}
+
+
+.page6image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+
+.page6playagain {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 90%;
+    left: 13%;
+}
+
+.page7image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page7tow {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 82%;
+    left: 3%;
+}
+
+.page7lyft {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 87%;
+    left: 3%;
+}
+
+.page7panic {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 80%;
+    display: block;
+    margin: auto;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 92%;
+    left: 3%;
+}
+
+
+.page8image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page8continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 87%;
+    left: 16%;
+}
+
+.page9image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page9continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 90%;
+    left: 16%;
+}
+
+.page10image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page10continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 84%;
+    left: 16%;
+}
+
+.page11image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page11continue {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 82%;
+    left: 16%;
+}
+
+
+.page12image {
+    position: absolute;
+    
+    /* this sets the size of the element—in this case, 100% of the window but no larger than 600px */
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    
+    /* this centers the element on the page*/
+    display: block;
+    margin: auto;
+    top: 0%;
+    left: 0%;
+}
+
+.page12playagain {
+    /* layers this element on top of the background img */
+    position: absolute;
+    
+    /* sets a size for this element relative to the background img */
+    width: 100%;
+
+    /* determines the placement of the element relative to the background img*/
+    top: 84%;
+    left: 13%;
+}
+

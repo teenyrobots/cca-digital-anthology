@@ -577,8 +577,8 @@
       "thesisPages": 9,
       "thesisTitle": "Thesis title TKTKTKTK",
       "thesisPath": "20dahan/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "digitalTitle": "Your Car is Gone",
+      "digitalUrl": "20dahan",
       "backgroundImage": "20dahan"
     },
     {
@@ -588,8 +588,8 @@
       "thesisPages": 10,
       "thesisTitle": "Thesis title TKTKTKTK",
       "thesisPath": "20dutton/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "digitalTitle": "Going Down?",
+      "digitalUrl": "20dutton",
       "backgroundImage": "20dutton"
     },
     {
@@ -599,8 +599,8 @@
       "thesisPages": 23,
       "thesisTitle": "Thesis title TKTKTKTK",
       "thesisPath": "20garcia/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "digitalTitle": "La Linea",
+      "digitalUrl": "20garcia",
       "backgroundImage": "20garcia"
     },
     {
@@ -610,8 +610,8 @@
       "thesisPages": 19,
       "thesisTitle": "Thesis title TKTKTKTK",
       "thesisPath": "20gray/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "digitalTitle": "Exhale",
+      "digitalUrl": "20gray",
       "backgroundImage": "20gray"
     },
     {
@@ -632,8 +632,8 @@
       "thesisPages": 19,
       "thesisTitle": "Thesis title TKTKTKTK",
       "thesisPath": "20rossi/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "digitalTitle": "Pigeon in the City",
+      "digitalUrl": "20rossi",
       "backgroundImage": "20rossi"
     },
     {
@@ -642,9 +642,9 @@
       "year": "2020",
       "thesisPages": 9,
       "thesisTitle": "Thesis title TKTKTKTK",
-      "thesisPath": "20lastname/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "thesisPath": "20saturday/",
+      "digitalTitle": "Revolution",
+      "digitalUrl": "20saturday",
       "backgroundImage": "20saturday"
     },
     {
@@ -653,9 +653,9 @@
       "year": "2020",
       "thesisPages": 9,
       "thesisTitle": "Thesis title TKTKTKTK",
-      "thesisPath": "20lastname/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "thesisPath": "20shoemaker/",
+      "digitalTitle": "Self Checkout",
+      "digitalUrl": "20shoemaker",
       "backgroundImage": "20shoemaker"
     },
     {
@@ -664,9 +664,9 @@
       "year": "2020",
       "thesisPages": 14,
       "thesisTitle": "Thesis title TKTKTKTK",
-      "thesisPath": "20lastname/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "thesisPath": "20soto/",
+      "digitalTitle": "The Postmen",
+      "digitalUrl": "20soto",
       "backgroundImage": "20soto"
     },
     {
@@ -675,9 +675,9 @@
       "year": "2020",
       "thesisPages": 9,
       "thesisTitle": "Thesis title TKTKTKTK",
-      "thesisPath": "20lastname/",
-      "digitalTitle": "",
-      "digitalUrl": "20lastname",
+      "thesisPath": "20tomasi/",
+      "digitalTitle": "The Crab",
+      "digitalUrl": "20tomasi",
       "backgroundImage": "20tomasi"
     },
     {
@@ -686,7 +686,7 @@
       "year": "2020",
       "thesisPages": 25,
       "thesisTitle": "Thesis title TKTKTKTK",
-      "thesisPath": "20lastname/",
+      "thesisPath": "20weise/",
       "digitalTitle": "",
       "digitalUrl": "",
       "backgroundImage": "20weise"

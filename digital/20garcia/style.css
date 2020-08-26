@@ -1,0 +1,156 @@
+/*JOYCE'S PAGE 2 STYLES*/
+/* stuff for normal images */
+.joyceContainer {
+    width: 100%;
+    max-width: 960px;
+    margin: auto;
+}
+
+.joyceContainer img {
+    display: block;
+    margin: 2% auto;
+    max-width: 100%;
+}
+
+/* stuff for positioning the link overlay*/
+.layering {
+    position: relative;
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 538px;
+}
+
+.layering img {
+    position: absolute;
+}
+
+body {
+  background-image: url(assets/final_images/page1/bkgrd1.gif);
+  background-size: auto;
+}
+
+img{
+    max-width: 100%;
+}
+
+.mainContainer {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    position: relative;
+}
+
+.title {
+    margin: auto;
+    padding-top: 2.em;
+    position: absolute;
+
+}
+
+.buildings{
+    position: absolute;
+    top: 15%;
+    left: 0;
+}
+
+.panel3{
+    position: absolute;
+    top: 100;
+    left: 0;
+}
+
+.buildingbottom{
+    position: absolute;
+    margin: auto;
+    max-width: 100%;
+    opacity: 100%
+}
+
+.buildingbottom:hover{
+    opacity: 0%;
+    cursor: url(assets/final_images/skullhover.gif), pointer;
+}
+
+
+.buildingbottomh{
+    position: absolute;
+    margin: auto;
+    max-width: 100%;
+    opacity: 100%;
+}
+
+
+.buildingbottomh:hover{
+    cursor: url(assets/final_images/skullhover.gif), pointer;
+}
+
+.p1p3{
+    position: absolute;
+    max-width: 100%;
+    margin: auto;
+    bottom: 0;
+}
+
+.p1p4{
+    position: absolute;
+    max-width: 60%;
+    top:79%;
+    left: 22%;
+    margin: auto;
+}
+
+.taxi1{
+    position: absolute;
+    margin: auto;
+    top: 40%;
+    
+}
+
+.p2p1a{
+    position: absolute;
+    max-width: 100%;
+    margin: auto;
+}
+
+.p2p1{
+    position: absolute;
+    margin: auto;
+    top: 21em;
+}
+
+
+.p2p2{
+    position: absolute;
+    margin: auto;
+    top: 100em;
+}
+
+
+.p2p3:hover {
+    opacity: 0%;
+    cursor:url(assets/final_images/skullhover.gif), auto;
+    }
+
+
+.reset{
+    position: absolute;
+    opacity: 100$;
+    margin: auto;
+}
+
+.reset:hover {
+    opacity: 0%;
+    cursor: url(assets/final_images/skullhover.gif), auto;
+}
+
+.resetH{
+    position: absolute;
+    opacity: 0%;
+    margin: auto;
+}
+
+.resetH:hover {
+    opacity: 100%;
+    cursor: url(assets/final_images/skullhover.gif), auto;
+}

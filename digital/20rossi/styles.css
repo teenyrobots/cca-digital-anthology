@@ -1,0 +1,275 @@
+/* styles for my final project */
+
+@font-face {
+    font-family: "Miketestfont";
+    src: url("Miketestfont-Regular.otf");
+}
+
+body {
+    background-color: white;  
+    font-size: 15px;
+    text-align: center;
+}
+
+.buttonImg {
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 500px;
+}
+
+img {
+    display: block;
+    margin: 1rem auto;
+    align-content: center;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 200;
+}
+
+a:link {
+    color: #170b6d;
+}
+
+a:visited {
+    color: #742a2b;
+}
+
+a:hover {
+    background-color: #170b6d;
+    color: white;
+    text-decoration: none; 
+}
+
+a:active {
+    background-color: orange;
+    color: white;
+    text-decoration: line-through;
+}
+
+.pigeoninthecity {
+    display: block;
+    max-width: 500px;
+    margin: 5rem auto;
+    align-content: center;
+    max-width: 100%;
+}
+
+.artboard {
+    position: relative;
+}
+
+.wind {
+    position: absolute;
+    max-width: 75px;
+    top: 130px;
+    left: 230px;
+}
+
+.nestFlapButton {
+    position: absolute;
+    max-width: 75px;
+    top: 460px;
+    left: 830px;
+}
+
+.imgChanger {
+    max-width: 250px;
+    position: absolute;
+    top: 455px;
+    left: 580px;
+}
+
+.descentButton {
+    max-width: 75px;
+    position: absolute;
+    top: 830px;
+    left: 195px;
+}
+
+.descent {
+    max-width: 800px;
+    position: absolute;
+    top: 770px;
+    left: 285px;
+}
+
+.featherMochaButton {
+    max-width: 75px;
+    position: absolute;
+    top: 1355px;
+    left: 2265px;
+    
+}
+
+.hiderMochaText {
+    max-width: 250px;
+    position: absolute;
+    top: 1250px;
+    left: 2200px;
+}
+
+.garbageFeather {
+    max-width: 75px;
+    position: absolute;
+    top: 2280px;
+    left: 1620px;
+}
+
+.garbage {
+    max-width: 550px;
+    position: absolute;
+    top: 2050px;
+    left: 1630px;
+}
+
+.coo {
+    position: absolute;
+    max-width: 75px;
+    top: 3010px;
+    left: 1825px;
+}
+
+.featherCup{
+    max-width: 75px;
+    position: absolute;
+    top: 2670px;
+    left: 2950px;
+}
+
+.cup {
+    max-height: 400px;
+    position: absolute;
+    top: 2730px;
+    left: 2500px;
+}
+
+.overhead {
+    position: absolute;
+    max-width: 75px;
+    top: 3305px;
+    left: 3410px;
+}
+
+.crowd {
+    position: absolute;
+    max-width: 75px;
+    top: 3800px;
+    left: 3755px;
+}
+
+.rustle {
+    position: absolute; 
+    max-width: 75px;
+    top: 4690px;
+    left: 5680px;
+}
+
+.featherShoo {
+    max-width: 75px;
+    position: absolute;
+    top: 5740px;
+    left: 7625px;
+}
+
+.shoo {
+    max-width: 1000px;
+    position: absolute;
+    top: 5620px;
+    left: 7200px;
+}
+
+.bridgeLand {
+    max-width: 75px;
+    position: absolute;
+    top: 8500px;
+    left: 8925px;
+}
+
+.bridge {
+    max-height: 600px;
+    position: absolute;
+    top: 8100px;
+    left: 8430px;
+}
+
+.flyaway {
+    position: absolute;
+    max-width: 75px;
+    top: 9900px;
+    left: 8800px;
+}
+
+.return {
+    position: absolute;
+    max-width: 90px;
+    top: 10080px;
+    left: 9050px;
+}
+
+#wind {
+    cursor: pointer;
+}
+
+#nestFlap {
+    cursor: pointer;
+}
+
+#garbageFeather {
+    cursor: pointer;
+}
+
+#coo {
+    cursor: pointer;
+}
+
+#crowd {
+    cursor: pointer;
+}
+
+#descentFeather {
+    cursor: pointer;
+}
+
+#featherMochaButton {
+    cursor: pointer;
+}
+
+#featherCup{
+    cursor: pointer;
+}
+
+#overhead {
+    cursor: pointer;
+}
+
+#rustle {
+    cursor: pointer;
+}
+
+#bridgeLand {
+    cursor: pointer;
+}
+
+#flyAway {
+    cursor: pointer;
+}
+
+#featherShoo {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+                       

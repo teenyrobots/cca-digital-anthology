@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fff;
+    margin: 0;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    color: #fff;
+    margin: 0;
+    padding: 1rem;
+}
+        
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fff;
+    margin: 0;
+}
+            
+a:link, a:visited {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    color: #fff;
+    margin: 0;
+}
+            
+a:hover, a:active {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    color: #ccc;
+    margin: 0;
+}
+
+#mainContainer {
+    background-color: transparent;
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 0px solid transparent;    
+    -webkit-transition: border 0.7s linear, box-shadow 0.7s linear;
+       -moz-transition: border 0.7s linear, box-shadow 0.7s linear;
+            transition: border 0.7s linear, box-shadow 0.7s linear;
+}
+
+#mainContainer.active {
+    border-color: transparent;
+    -webkit-box-shadow: 0 0 50px #fff;
+       -moz-box-shadow: 0 0 50px #fff;
+            box-shadow: 0 0 50px #fff;
+}
+
+img {
+    max-width: 100%;
+}
+
+#breathe {
+    display: none;
+}
+
+#nav {
+    margin: auto;
+    width: 50%;
+    border: 0px solid transparent;
+    text-align: center;
+}
+#nav td {
+    width: 50%;
+}

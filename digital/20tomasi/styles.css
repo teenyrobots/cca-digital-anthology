@@ -1,0 +1,19 @@
+/* styles for my css project */
+
+body {
+    background-color: dimgrey;
+    color:white;
+    text-align: center;
+
+}
+
+img {
+    width:100%;
+    display:block;
+    background-color:black;
+}
+
+h1 {
+    color:white;
+}
+

@@ -1,0 +1,191 @@
+/* styles for First Draft */
+
+img {
+    max-width: 100%;
+}
+
+.homeimage {
+    width:90%;
+    max-width:700px;
+    display: flex;
+    margin:auto; 
+}
+
+#selfcheckout{
+    align-self: center;
+}
+.buttonholder {
+    position: relative;
+    width: 100%;
+    height:inherit;
+    
+}
+#nextpage {
+    position:absolute;
+    bottom:40px;
+    max-width: 12%;
+    left:48%;
+ }
+#firstAd{
+    max-width: 1000px;
+    width:100%;
+    display:block;
+    margin:auto;
+}
+
+.mainContainer{
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+.startholder{
+    position: relative;
+}
+#startbutton{
+    position:absolute;
+    left:50%;
+    right:5%;
+    bottom:70px;
+    max-width: 45%;
+    cursor:pointer;
+}
+.notamember {
+    position: relative;
+    left:45%;
+    right:5%;
+    bottom:120px;
+    max-width:130px;
+    cursor:pointer;
+}
+.nottoday {
+    position: relative;
+    left:50%;
+    right:5%;
+    bottom:110px;
+    max-width:120px;
+    cursor:pointer;
+}
+#hiddencontent1{
+    position:inherit;
+    margin-top:0rem;   
+}
+#hiddencontent4{
+    position:inherit;
+    margin-top:-6rem;
+}
+#hiddencontent5{
+    position:inherit;
+    margin-top:-6rem;
+}
+.nobagbutton{
+    cursor:pointer;
+}
+#adAtdoor {
+    position:relative;
+    bottom:15rem;
+    right:50%;
+    left:40%;
+    max-width:250px;
+    cursor:pointer;
+}
+#opendoor {
+    position:relative;
+    left:28%;
+    bottom:0;
+    max-width: 45%;
+    cursor:pointer;
+}
+.hiding {
+    visibility: hidden;
+}
+.closer{
+    cursor:pointer;
+}
+#soundcontrol {
+    cursor:pointer;
+}
+#cashbutton {
+    position: relative;
+    top:-6rem;
+    right:-20rem;
+    max-width:21%;
+    cursor:pointer;  
+}
+.pollpage {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    flex-wrap: wrap;    
+    justify-content: center; 
+}
+.pollimage {
+    position: relative;
+}
+.submitbutton {
+    margin-top:-30px;
+    width: 100%;
+    max-width: 150px;
+    display: block;
+    margin: auto;
+ }
+
+@media only screen and (max-width:1600px){
+    #nextpage{ 
+        max-width:15%;
+        right:25%;
+        bottom:60px;
+    }
+}
+
+@media only screen and (max-width:1250px){
+    #nextpage{ 
+        max-width:20%;
+        right:25%;
+        bottom:60px;
+    }
+}
+
+
+@media only screen and (max-width:950px){
+    #nextpage{ 
+        max-width:25%;
+        right:35%;
+        bottom:30px;
+    }
+}
+
+@media only screen and (max-width:730px){
+    #nextpage{ 
+        max-width:35%;
+        left:45%;
+        bottom:0;
+    }
+    
+    #adAtdoor {
+    position:relative;
+    bottom:14rem;
+    right:40%;
+    left:40%;
+    max-width:250px;
+    cursor:pointer;
+}
+    .notamember {
+    position: relative;
+    left:45%;
+    right:5%;
+    bottom:110px;
+    max-width:130px;
+    cursor:pointer;
+}
+#cashbutton {
+    position: relative;
+    top:-5rem;
+    right:-17rem;
+    max-width:21%;
+    cursor:pointer;  
+}
+}
+    

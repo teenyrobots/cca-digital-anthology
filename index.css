@@ -219,7 +219,7 @@ p {
 
 .studentCard img {
     border: solid 1px white;
-    max-width: 100%;
+    max-width: 245px;
 }
 
 .studentCard img:hover {
