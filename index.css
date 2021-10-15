@@ -260,9 +260,10 @@ p {
     margin-top: 1em;
 }
 
-.cardDad-buttonTiles {
+/* Use this if you don't like the way the "year" cards are reflowing*/
+/* .cardDad-buttonTiles {
     max-width: 600px !important;
-}
+} */
 
 .cardDad .button {
     margin: 1em 0;
