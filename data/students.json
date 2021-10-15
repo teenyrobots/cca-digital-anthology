@@ -690,6 +690,39 @@
       "digitalTitle": "",
       "digitalUrl": "",
       "backgroundImage": "20weise"
+    },
+    {
+      "displayName": "Aster Ricks",
+      "slug": "21aster",
+      "year": "2021",
+      "thesisPages": 12,
+      "thesisTitle": "Verenon-Corvo Di Collina",
+      "thesisPath": "21aster/",
+      "digitalTitle": "Begin",
+      "digitalUrl": "21aster",
+      "backgroundImage": "21aster"
+    },
+    {
+      "displayName": "Christine Villanueva",
+      "slug": "21christine",
+      "year": "2021",
+      "thesisPages": 11,
+      "thesisTitle": "An Apartment Not in Paris",
+      "thesisPath": "21christine/",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "backgroundImage": "21christine"
+    },
+    {
+      "displayName": "Jackie Kirby",
+      "slug": "21jackie",
+      "year": "2021",
+      "thesisPages": 20,
+      "thesisTitle": "Markov: A \"Graphic\" \"Novel\"",
+      "thesisPath": "21jackie/",
+      "digitalTitle": "",
+      "digitalUrl": "21jackie",
+      "backgroundImage": "21jackie"
     }
   ]
 }

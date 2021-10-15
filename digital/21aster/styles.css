@@ -1,0 +1,61 @@
+/* styles for my css hw */
+
+@font-face {
+  font-family: "ohgods";
+  src: url("Ohgods-Regular.otf");
+}
+
+body {
+  background-color: white;
+  font-family: ohgods, sans-serif;
+  color: #C12614;
+}
+
+h1 {
+  font-size: 6rem;
+  color: #C12614;
+}
+
+.header {
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  text-align: center;
+}
+
+
+.mainContainer {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: auto;
+  position: relative;
+  /* padding: 1rem; */
+}
+
+.clicker {
+  position: absolute;
+  width: 20%;
+  max-width: 100px;
+  left: 45%;
+  top: 40%;
+}
+
+.clicker img {
+  width: 100%;
+}
+
+a:link{
+  color: #080809;
+}
+
+a:visited{
+  color: #C12614;
+}
+
+a:hover{
+  color: #C2ECF1;
+  text-decoration: line-through;
+}

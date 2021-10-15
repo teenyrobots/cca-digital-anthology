@@ -1,0 +1,67 @@
+/* Styles for the landing page of the project */
+
+body {
+  background-image: url("assets/spacebg.jpg");
+  background-color: black;
+  background-position: center;
+  background-repeat: repeat;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.Header {
+  display: block;
+  background-color: red;
+  padding: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+  font-size: 2.2rem;
+}
+
+.AudioBlock {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+
+.HoldMeCloserTinyFooter {
+  left: 0px;
+  bottom: 0px;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+img {
+  margin: auto;
+  padding: .5rem;
+}
+
+.MiddleFlexBox {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  padding: .5rem;
+  width: 50rem;
+  /* background-color: black; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.EnterText {
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+  font-size: 2rem;
+  margin: 1rem;
+  padding: 0;
+  display: block;
+}
