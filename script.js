@@ -56,7 +56,7 @@ $(document).ready(function(){
 
     }
 
-
+    console.log("I am updating the console");
 
 
 
