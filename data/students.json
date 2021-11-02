@@ -723,6 +723,72 @@
       "digitalTitle": "Last Night I Dreamt I Was Married to Your Ass",
       "digitalUrl": "21jackie",
       "backgroundImage": "21jackie"
+    },
+    {
+      "displayName": "J.M. Hunter",
+      "slug": "21hunter",
+      "year": "2021",
+      "thesisPages": 11,
+      "thesisTitle": "Man in a Box",
+      "thesisPath": "21hunter/",
+      "digitalTitle": "Note 2 Self: Hope Floats...Away",
+      "digitalUrl": "21hunter",
+      "backgroundImage": "21hunter"
+    },
+    {
+      "displayName": "Kit Fraser",
+      "slug": "21kit",
+      "year": "2021",
+      "thesisPages": 12,
+      "thesisTitle": "The Dreamkeeper's Dream",
+      "thesisPath": "21kit/",
+      "digitalTitle": "Poppy",
+      "digitalUrl": "21kit",
+      "backgroundImage": "21kit"
+    },
+    {
+      "displayName": "Kristen Lynn Zimmerman",
+      "slug": "21kristen",
+      "year": "2021",
+      "thesisPages": 17,
+      "thesisTitle": "Delicious Refuge (An excerpt from HOME)",
+      "thesisPath": "21kristen/",
+      "digitalTitle": "The Beginning",
+      "digitalUrl": "21kristen",
+      "backgroundImage": "21kristen"
+    },
+    {
+      "displayName": "Melissa \"Sawhand\" Philley",
+      "slug": "21melissa",
+      "year": "2021",
+      "thesisPages": 9,
+      "thesisTitle": "The Last Circle Cast",
+      "thesisPath": "21melissa/",
+      "digitalTitle": "The Beginning",
+      "digitalUrl": "21melissa",
+      "backgroundImage": "21melissa"
+    },
+    {
+      "displayName": "Ness Ilene Garza",
+      "slug": "21ness",
+      "year": "2021",
+      "thesisPages": 15,
+      "thesisTitle": "It Was Nice Ruining Your Life",
+      "thesisPath": "21ness/",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "backgroundImage": "21ness"
+    },
+    {
+      "displayName": "Xiaoan Chen",
+      "slug": "21chen",
+      "year": "2021",
+      "thesisPages": 21,
+      "thesisTitle": "Don't Go Chase the Waterfall",
+      "thesisPath": "21chen/",
+      "digitalTitle": "Don't Go Chase the Waterfall",
+      "digitalUrl": "21chen",
+      "backgroundImage": "21chen"
     }
   ]
 }
