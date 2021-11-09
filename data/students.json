@@ -200,6 +200,16 @@
       "thesisPath": "16shyu/"
     },
     {
+      "displayName": "Rachell Sumpter",
+      "slug": "sumpter",
+      "year": "2016",
+      "thesisPages": 10,
+      "thesisTitle": "Mazy & Gus",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "thesisPath": "16sumpter/"
+    },
+    {
       "displayName": "Samantha Nicole Traina",
       "slug": "traina",
       "year": "2016",
@@ -219,16 +229,6 @@
       "digitalUrl": "16williams/comics.html",
       "thesisPath": "16williams/",
       "backgroundImage": "10"
-    },
-    {
-      "displayName": "Rachell Sumpter",
-      "slug": "sumpter",
-      "year": "2016",
-      "thesisPages": 10,
-      "thesisTitle": "Mazy & Gus",
-      "digitalTitle": "",
-      "digitalUrl": "",
-      "thesisPath": "16sumpter/"
     },
 
 
@@ -402,17 +402,6 @@
       "backgroundImage": "20"
     },
     {
-      "displayName": "Eric Wong",
-      "slug": "wong",
-      "year": "2018",
-      "thesisPages": 18,
-      "thesisTitle": "Pulp Nonfiction, <br> Chapters 1&2",
-      "digitalTitle": "MausIII: The Movie",
-      "digitalUrl": "18wong/index.html",
-      "thesisPath": "18wong/",
-      "backgroundImage": "21"
-    },
-    {
       "displayName": "DT Watson Jr.",
       "slug": "watson",
       "year": "2018",
@@ -422,6 +411,17 @@
       "digitalUrl": "",
       "thesisPath": "18watson/",
       "backgroundImage": "22"
+    },
+    {
+      "displayName": "Eric Wong",
+      "slug": "wong",
+      "year": "2018",
+      "thesisPages": 18,
+      "thesisTitle": "Pulp Nonfiction, <br> Chapters 1&2",
+      "digitalTitle": "MausIII: The Movie",
+      "digitalUrl": "18wong/index.html",
+      "thesisPath": "18wong/",
+      "backgroundImage": "21"
     },
 
 
@@ -691,6 +691,64 @@
       "digitalUrl": "",
       "backgroundImage": "20weise"
     },
+
+
+
+    {
+      "displayName": "Kit Fraser",
+      "slug": "21kit",
+      "year": "2021",
+      "thesisPages": 12,
+      "thesisTitle": "The Dreamkeeper's Dream",
+      "thesisPath": "21kit/",
+      "digitalTitle": "Poppy",
+      "digitalUrl": "21kit",
+      "backgroundImage": "21kit"
+    },
+    {
+      "displayName": "Ness Ilene Garza",
+      "slug": "21ness",
+      "year": "2021",
+      "thesisPages": 15,
+      "thesisTitle": "It Was Nice Ruining Your Life",
+      "thesisPath": "21ness/",
+      "digitalTitle": "",
+      "digitalUrl": "",
+      "backgroundImage": "21ness"
+    },
+    {
+      "displayName": "J.M. Hunter",
+      "slug": "21hunter",
+      "year": "2021",
+      "thesisPages": 11,
+      "thesisTitle": "Man in a Box",
+      "thesisPath": "21hunter/",
+      "digitalTitle": "Note 2 Self: Hope Floats...Away",
+      "digitalUrl": "21hunter",
+      "backgroundImage": "21hunter"
+    },
+    {
+      "displayName": "Jackie Kirby",
+      "slug": "21jackie",
+      "year": "2021",
+      "thesisPages": 20,
+      "thesisTitle": "Markov: A \"Graphic\" \"Novel\"",
+      "thesisPath": "21jackie/",
+      "digitalTitle": "Last Night I Dreamt I Was Married to Your Ass",
+      "digitalUrl": "21jackie",
+      "backgroundImage": "21jackie"
+    },
+    {
+      "displayName": "Melissa \"Sawhand\" Philley",
+      "slug": "21melissa",
+      "year": "2021",
+      "thesisPages": 9,
+      "thesisTitle": "The Last Circle Cast",
+      "thesisPath": "21melissa/",
+      "digitalTitle": "The Beginning",
+      "digitalUrl": "21melissa",
+      "backgroundImage": "21melissa"
+    },
     {
       "displayName": "Aster Ricks",
       "slug": "21aster",
@@ -714,37 +772,15 @@
       "backgroundImage": "21christine"
     },
     {
-      "displayName": "Jackie Kirby",
-      "slug": "21jackie",
+      "displayName": "Xiaoan Chen",
+      "slug": "21chen",
       "year": "2021",
-      "thesisPages": 20,
-      "thesisTitle": "Markov: A \"Graphic\" \"Novel\"",
-      "thesisPath": "21jackie/",
-      "digitalTitle": "Last Night I Dreamt I Was Married to Your Ass",
-      "digitalUrl": "21jackie",
-      "backgroundImage": "21jackie"
-    },
-    {
-      "displayName": "J.M. Hunter",
-      "slug": "21hunter",
-      "year": "2021",
-      "thesisPages": 11,
-      "thesisTitle": "Man in a Box",
-      "thesisPath": "21hunter/",
-      "digitalTitle": "Note 2 Self: Hope Floats...Away",
-      "digitalUrl": "21hunter",
-      "backgroundImage": "21hunter"
-    },
-    {
-      "displayName": "Kit Fraser",
-      "slug": "21kit",
-      "year": "2021",
-      "thesisPages": 12,
-      "thesisTitle": "The Dreamkeeper's Dream",
-      "thesisPath": "21kit/",
-      "digitalTitle": "Poppy",
-      "digitalUrl": "21kit",
-      "backgroundImage": "21kit"
+      "thesisPages": 21,
+      "thesisTitle": "Don't Go Chase the Waterfall",
+      "thesisPath": "21chen/",
+      "digitalTitle": "Don't Go Chase the Waterfall",
+      "digitalUrl": "21chen",
+      "backgroundImage": "21chen"
     },
     {
       "displayName": "Kristen Lynn Zimmerman",
@@ -756,39 +792,6 @@
       "digitalTitle": "The Beginning",
       "digitalUrl": "21kristen",
       "backgroundImage": "21kristen"
-    },
-    {
-      "displayName": "Melissa \"Sawhand\" Philley",
-      "slug": "21melissa",
-      "year": "2021",
-      "thesisPages": 9,
-      "thesisTitle": "The Last Circle Cast",
-      "thesisPath": "21melissa/",
-      "digitalTitle": "The Beginning",
-      "digitalUrl": "21melissa",
-      "backgroundImage": "21melissa"
-    },
-    {
-      "displayName": "Ness Ilene Garza",
-      "slug": "21ness",
-      "year": "2021",
-      "thesisPages": 15,
-      "thesisTitle": "It Was Nice Ruining Your Life",
-      "thesisPath": "21ness/",
-      "digitalTitle": "",
-      "digitalUrl": "",
-      "backgroundImage": "21ness"
-    },
-    {
-      "displayName": "Xiaoan Chen",
-      "slug": "21chen",
-      "year": "2021",
-      "thesisPages": 21,
-      "thesisTitle": "Don't Go Chase the Waterfall",
-      "thesisPath": "21chen/",
-      "digitalTitle": "Don't Go Chase the Waterfall",
-      "digitalUrl": "21chen",
-      "backgroundImage": "21chen"
     }
   ]
 }
