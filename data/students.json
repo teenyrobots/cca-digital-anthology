@@ -695,6 +695,17 @@
 
 
     {
+      "displayName": "Xiaoan Chen",
+      "slug": "21chen",
+      "year": "2021",
+      "thesisPages": 21,
+      "thesisTitle": "Don't Go Chase the Waterfall",
+      "thesisPath": "21chen/",
+      "digitalTitle": "Don't Go Chase the Waterfall",
+      "digitalUrl": "21chen",
+      "backgroundImage": "21chen"
+    },
+    {
       "displayName": "Kit Fraser",
       "slug": "21kit",
       "year": "2021",
@@ -770,17 +781,6 @@
       "digitalTitle": "",
       "digitalUrl": "",
       "backgroundImage": "21christine"
-    },
-    {
-      "displayName": "Xiaoan Chen",
-      "slug": "21chen",
-      "year": "2021",
-      "thesisPages": 21,
-      "thesisTitle": "Don't Go Chase the Waterfall",
-      "thesisPath": "21chen/",
-      "digitalTitle": "Don't Go Chase the Waterfall",
-      "digitalUrl": "21chen",
-      "backgroundImage": "21chen"
     },
     {
       "displayName": "Kristen Lynn Zimmerman",
