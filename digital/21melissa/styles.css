@@ -73,7 +73,7 @@ body {
   max-height: 100%;
 }
 
-#FirstTransition {
+.FirstTransition {
   cursor: pointer;
 }
 
