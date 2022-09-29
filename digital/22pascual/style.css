@@ -1,0 +1,129 @@
+/* css styles for ghould brew */
+
+@font-face {
+   font-family: "ErikaFont";
+    src: url("ErikasFont-Regular.otf");
+}
+
+body {
+   background-color: black; 
+    color: ghostwhite;
+    text-align: center;
+    background-image: url(grid.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    font-family: ErikaFont, sans-serif;
+
+}
+
+#soundcontrol{
+    cursor: pointer;
+     width: 50px;
+}
+
+img {
+    width: 70%;
+    max-width: 350px;
+    display: block;
+    margin: 2rem auto 4rem auto;
+}
+
+.intro {
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.diningroom {
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.crouch{
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto; 
+}
+
+.look {
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.flicker{
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.slide {
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.up {
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.dialogue {
+    width: 900%;
+    max-width: 500px;
+    margin: 2rem auto 4rem auto;
+}
+
+.large {
+    width: 900%;
+    max-width: 800px;
+    margin: 2rem auto 4rem auto;
+}
+
+.jump {
+    width: 900%;
+    max-width: 600px;
+    margin: 2rem auto 4rem auto;
+}
+
+.hand {
+    max-width: 700px;
+    max-width: 500px;;
+    margin: 4rem auto 3rem auto;
+}
+
+.flashlight {
+    max-width: 600px;
+}
+
+h1 {
+    color: ghostwhite;
+    font-size: 8rem;
+    margin: 1rem auto
+
+}
+
+p{
+    font-size: 4rem;
+    margin: 1rem auto
+}
+
+a:link {
+    color: ghostwhite;
+    font-size: 20px;
+}
+
+a:visited{
+    color: orangered;
+}
+
+a:hover {
+    background-color: chartreuse;
+    color: black
+}
+
+a:active {
+    background-color: orange;
+}

@@ -1,0 +1,189 @@
+
+
+@font-face {
+    font-family: "sarahfont";
+    src: url("assets/Maloneydoodles_main-Regular.otf");
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: sarahfont, sans-serif;
+}
+
+.instagram {
+    position: absolute;
+    width: 5vh;
+    left: 1vw;
+    top: 1vw;
+    z-index: 2000;
+}
+
+.twitter {
+    position: absolute;
+    width: 5vh;
+    left: 5vw;
+    top: 1vw;
+    z-index: 2000;
+}
+
+.website {
+    position: absolute;
+    width: 5vh;
+    left: 9vw;
+    top: 1vw;
+    z-index: 2000;
+    
+}
+
+.home {
+    position: absolute;
+    width: 15vh;
+    right: 1vw;
+    top: 1vw;
+    z-index: 2000;
+    
+}
+
+
+
+#fallers1 {
+    position: absolute;
+    width: 52vh;
+    left: 45vw;
+    top: 50vw;
+}
+
+#fallers2 {
+    position: fixed;
+    width: 50vh;
+    left: 30vw;
+    bottom: 5vw;
+}
+
+#fallers3 {
+    position: fixed;
+    width: 50vh;
+    left: 37vw;
+    bottom: 10vw;
+}
+
+#bottom {
+    width: 1px;
+    height: 1px;
+}
+
+.meteor {
+    position: absolute;
+    bottom: 0;
+   
+}
+
+.bubbles1 {
+    
+  position: absolute;
+    bottom: 0;
+    z-index: 1000;
+}
+
+.toppage {
+    position: absolute;
+    bottom: 0;
+    z-index: 1000;
+}
+
+.bottompage {
+/*    position: absolute;*/
+    z-index: 500;
+/*    bottom: 0;*/
+}
+
+.fallers3 {
+    z-index: 800;
+}
+
+.background {
+    position: relative;
+    background-color: rgba(69, 123, 176, 1);
+}
+  
+
+.backgroundparent {
+    position: relative;
+}
+
+.backgroundparent2 {
+    position: relative;
+}
+  
+
+
+.backgroundparent3 {
+    position: relative;
+    background-color: rgba(69, 123, 176, 1);
+}
+  
+
+img {
+
+  display: block;
+  max-width: 100%;
+  height: auto;
+ 
+
+}
+
+.headertext {
+    text-align: center;
+    font-size: 4rem;
+    
+    
+}
+
+.homepage {
+    position: absolute;
+    
+}
+
+.button1 {
+    position: absolute;
+    width: 13%;
+    left: 89.3%;
+    top: 98.4%;
+    
+}
+
+.button2 {
+    position: absolute;
+    width: 13%;
+    left: 89.3%;
+    top: 97.5%;
+    z-index: 1005;
+}
+
+.button3 {
+    position: absolute;
+    width: 13%;
+    left: 45%;
+    top: 99%;
+    z-index: 100;
+}
+
+.subheadertext {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.headertitle {
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}

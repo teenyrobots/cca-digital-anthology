@@ -1,0 +1,65 @@
+body {
+    align-content: center;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+    max-width: 1920px;
+    min-width: 1px;
+    display: block;
+    margin: auto;
+    
+}
+
+.tunerbackbutton {
+    position:absolute;
+    width: 11.5%;
+    top: 77.5%;
+    left: 40.5%;
+    opacity: 0%;
+}
+
+.tunerbody{
+    position:absolute;
+}
+
+#Gplaybutton{
+    position: absolute;
+    z-index: 50;
+    width: 10%;
+    left: 31.7%;
+    top: 61.9%;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+#Cplaybutton{
+    position: absolute;
+    z-index: 50;
+    width: 12%;
+    left: 22%;
+    top: 56%;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+#Eplaybutton{
+    position: absolute;
+    z-index: 50;
+    width: 9.5%;
+    left: 65%;
+    top: 50.9%;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+#Aplaybutton{
+    position: absolute;
+    z-index: 50;
+    width: 7.5%;
+    left: 67.1%;
+    top: 57.3%;
+    opacity: 0%;
+    cursor: pointer;
+}

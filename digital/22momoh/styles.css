@@ -1,0 +1,117 @@
+/* styles for my jquery demo*/
+
+@font-face {
+    font-family: "AnaFont";
+    src: url("Assets_Treasures/AnasFont-Regular.ttf");
+}
+
+body{
+    background-color: white;
+    text-align: center;
+    font-family: AnaFont;
+}
+
+#soundcontrol {
+    cursor: pointer;
+}
+
+
+h1{
+    font-size: 6rem;
+    color: mediumslateblue;
+}
+
+img{
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin: -2rem auto 4rem auto;
+    
+}
+
+.house {
+      max-width: 1100px;
+    display: auto;
+    margin: 2rem auto 4rem auto;
+   
+}
+
+.swingingbell {
+    max-width: 300px;
+    margin: 2rem auto -4rem auto;
+    display: block;
+}
+
+.story {
+    max-width: 1500px;
+    display: auto;
+    margin: 2rem auto 4rem auto;
+    
+}
+.map {
+     max-width: 1100px;
+    display: auto;
+    margin: 2rem auto 4rem auto;
+}
+
+.morefish {
+    max-width: 800px;
+    display: auto;
+    margin: 2rem auto 4rem auto; 
+}
+.fish {
+    max-width: 2000px;
+    display: auto;
+    margin: 2rem auto 4rem auto; 
+}
+
+
+
+.intro  {max-width: 40rem;
+   display: auto;
+   margin: 2rem auto 4rem auto;  
+}
+
+
+.heart {
+   max-width: 80rem;
+   display: auto;
+   margin: 2rem auto 4rem auto;  
+}
+.heartbeat {
+     max-width: 100rem;
+   display: block;
+   margin: 2rem auto 4rem auto;  
+}
+
+.starfall {
+    max-width: 40rem;
+   display: block;
+   margin: 2rem auto 4rem auto;  
+}
+
+.dance {
+    max-width: 1000px;
+   display: auto;
+   margin: 2rem auto 4rem auto;  
+}
+}
+.flash {
+    max-width: 4000px;
+   display: auto;
+   margin: 2rem auto 4rem auto;  
+}
+
+.swirl {
+    max-width: 1000px;
+   display: auto;
+   margin: 2rem auto 4rem auto;  
+    
+}
+
+
+.end {
+     max-width: 800px;
+   display: auto;
+   margin: 2rem auto 4rem auto;  
+}

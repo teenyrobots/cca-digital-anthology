@@ -1,0 +1,22 @@
+img {
+    width: 100%;
+    max-width: 1920px;
+    overflow: hidden;
+}
+
+.siuback {
+    width: 100%;
+    max-width: 500px;
+}
+
+.b1b {
+    width: 28%;
+    position: absolute;
+    top: 34%;
+    left: 28%;
+    opacity: 0;
+}
+
+.backparent {
+    position: absolute;
+}

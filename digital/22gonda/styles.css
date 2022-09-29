@@ -1,0 +1,18 @@
+/* styles for my digital comic homework final */
+
+/* the below refers to the background color of the page. i think */
+body {
+    background-image:url(assets/BackgroundTextureLight.gif);
+    background-color: #b9bdcd;
+    color: black;
+    margin-bottom: 0px;
+    margin: 0;
+    padding: 0;
+}
+
+/* this one will tell browser how big the image can be. it seems to
+affect how much an image can squash or stretch when the window size changes */
+img {
+    max-width: 100%;
+    display: flex;
+}

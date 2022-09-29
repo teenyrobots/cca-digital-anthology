@@ -1,0 +1,94 @@
+/* css styles for my css demo */
+
+body {
+    background-color:white;
+    color:black;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom:8%;
+    font-family:cursive;
+}
+
+link {
+    color:darkturquoise;
+}
+
+a:visited{
+    color:darkturquoise;
+}
+
+img {
+    width: 50%;
+    max-width: 100%;
+    display:flex;
+    margin: 3rem auto 2rem auto;}
+
+a:hover {
+    color: aliceblue;;
+}
+
+a:active {
+    color: aliceblue;
+}
+
+.backbutton {
+    position: absolute;
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.silence 
+{
+    position:absolute;
+    margin-left: 680px;
+    margin-bottom:60px;
+}
+
+.tellthem 
+{
+    position:absolute;
+    margin-left: 480px;
+    margin-bottom:60px;
+}
+
+.backto4
+{
+    position:absolute;
+    margin-left: 400px;
+    margin-bottom:90px;
+}
+
+.retry
+{
+    position:absolute;
+    margin-left: 380px;
+    margin-bottom:20px;
+}
+
+.nextbutton
+{
+    position:absolute;
+    margin-left: 580px;
+    margin-bottom:20px;
+}
+
+.mywebsiteone
+{
+    position:relative;
+    margin-left:auto;
+    margin-top: 300px;
+}
+        
+.startbutton
+{
+    position:absolute;
+    margin-top: 2300px;
+    font-size: 50px;
+        }
+
+.choose
+{
+    position:absolute;
+    margin-top: 2050px;
+        }

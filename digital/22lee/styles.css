@@ -1,0 +1,304 @@
+body {
+    align-content: center;
+    margin: 0;
+}
+
+#startbody {
+    overflow: hidden;
+}
+
+h1 { 
+    text-align-last: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+img {
+    width: 100%;
+    max-width: 1920px;
+    min-width: 1px;
+    display: block;
+    margin: auto;
+}
+
+.indexb {
+    position: relative;
+    top: -80px;
+}
+
+ .pick {
+     width: 23.5%;
+     margin: 0;
+     position: absolute;
+        top: 7.5%;
+        left: 35%;
+     overflow: hidden;
+     opacity: 0%;
+}
+
+.specialelement {
+    width: 100%;
+    
+}
+
+.flexparent {
+    display:flex;
+    justify-content:center;
+    
+}
+
+.startpage {
+    position:absolute;
+}
+
+#mainpage {
+    position: absolute;
+}
+
+.ribbon {
+    width: 50%;
+    position: fixed;
+    left: 25%;
+    margin-top:50px;
+    z-index: 50;
+}
+
+.ukulele {
+    width: 70%
+}
+
+#tunerbutton {
+    position: absolute;
+    width: 13.4%;
+    top: 29.4%;
+    left: 43.2%;
+    opacity: 0%;
+}
+
+.chordbutton {
+    position: absolute;
+    width: 7.4%;
+    top: 38.5%;
+    left: 46.31%;
+    opacity: 0%;
+}
+
+.bridgebutton {
+    position: absolute;
+    width: 15.5%;
+    top: 82%;
+    left: 42.3%;
+    opacity: 0%;
+}
+
+#abutton {
+    position: absolute;
+    width: 4.5%;
+    top: 2.5%;
+    left: 47.5%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#bbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 2.5%;
+    left: 53%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#cbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 2.5%;
+    left: 58.5%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#dbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 2.5%;
+    left: 64.5%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#ebutton {
+    position: absolute;
+    width: 5%;
+    top: 2.5%;
+    left: 70%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#fbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 2.8%;
+    left: 76%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#gbutton {
+    position: absolute;
+    width: 4.7%;
+    top: 2.7%;
+    left: 82%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#ambutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.8%;
+    left: 47.5%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#bmbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.8%;
+    left: 53%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#cmbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.5%;
+    left: 58.5%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#dmbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.5%;
+    left: 64.5%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#embutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.5%;
+    left: 70%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#fmbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.5%;
+    left: 76%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+#gmbutton {
+    position: absolute;
+    width: 4.5%;
+    top: 6.5%;
+    left: 82%;
+    z-index: 50;
+    opacity:0%;
+    cursor: pointer;
+}
+
+.chordpage {
+    position: absolute;
+    width: 85%;
+    align-content: center;
+}
+
+#chordbackbutton {
+    position: absolute;
+    width: 7.5%;
+    top: 77.3%;
+    left: 75.5%;
+    opacity: 0%;
+    cursor: pointer;
+}
+
+#bridgebackbutton {
+    position: absolute;
+    width: 11.3%;
+    opacity: 0%;
+    left: 40.9%;
+    bottom: 5.8%;
+    
+}
+
+.bridgebody { 
+    position: absolute;
+}
+
+.hiddenbutton {
+    position: absolute;
+    width: 0.7%;
+    opacity: 0%;
+    top: 92%;
+    left: 62.1%;
+    
+}
+
+.hiddentext {
+    margin-left: 10%
+}
+
+#bb1 {
+    position: absolute;
+    width: 20.5%;
+    top: 47.7%;
+    left: 10.7%;
+    opacity: 0;
+}
+
+.bb2 {
+    position: absolute;
+    width: 20.5%;
+    top: 47.7%;
+    left: 39%;
+    opacity: 0;
+}
+
+.bb3 {
+    position: absolute;
+    width: 20.5%;
+    top: 47.9%;
+    left: 68%;
+    opacity: 0;
+}
+
+#goback {
+    position: absolute;
+    width: 5%;
+    top: 42.9%;
+    opacity: 0;
+}

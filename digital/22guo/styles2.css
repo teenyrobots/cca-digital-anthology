@@ -1,0 +1,72 @@
+/*styles for my positioning demo*/
+
+@font-face{
+    font-family:"MowenFont";
+    src:url("Mowenfont6-Regular.otf");
+}
+
+body{background-color: whitesmokes;
+    
+    font-family: MowenFont, sans-serif;
+    
+}
+
+img {max-width: 100%;}
+
+
+.mainContainer{
+    background-color: skyblue;
+    width:100%;
+    max-width:1800px;
+    display: block;
+    margin: auto;
+    margin-top: 10rem;
+    padding: 1rem;
+}
+
+
+.headerTitle{
+    background-color: black;
+    width:100%;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 100;
+    color:aliceblue;
+}
+
+
+.headText{text-align: center;
+}
+
+
+.linkTileParent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:nowrap
+}
+.linkTiles{
+    position: relative;
+    margin: 1rem;
+}
+
+.linkText{
+    position: absolute;
+    left:0;
+    bottom:2rem;
+    background-color: deeppink;
+    width: 60%;
+    padding: 1rem;
+}
+
+.backtothetitlepage {
+    
+    font-size: 6rem;
+}
+.buttons {
+    width: 30%;
+}
+
+.buttons img {
+    width: 100%;
+}
