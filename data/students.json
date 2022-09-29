@@ -792,6 +792,105 @@
       "digitalTitle": "The Beginning",
       "digitalUrl": "21kristen",
       "backgroundImage": "21kristen"
+    },
+    {
+      "displayName": "A.G. Moore",
+      "slug": "22moore",
+      "year": "2022",
+      "thesisPages": 25,
+      "thesisTitle": "Rare Wolves",
+      "thesisPath": "22moore/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22moore",
+      "backgroundImage": "22moore"
+    },
+    {
+      "displayName": "Ana",
+      "slug": "22momoh",
+      "year": "2022",
+      "thesisPages": 19,
+      "thesisTitle": "The Garden in Her Mind",
+      "thesisPath": "22momoh/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22momoh",
+      "backgroundImage": "22momoh"
+    },
+    {
+      "displayName": "Charly Shoo",
+      "slug": "22shooster",
+      "year": "2022",
+      "thesisPages": 19,
+      "thesisTitle": "Mamita",
+      "thesisPath": "22shooster/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22shooster",
+      "backgroundImage": "22shooster"
+    },
+    {
+      "displayName": "Erika Pascual",
+      "slug": "22pascual",
+      "year": "2022",
+      "thesisPages": 10,
+      "thesisTitle": "Curated Panels",
+      "thesisPath": "22pascual/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22pascual",
+      "backgroundImage": "22pascual"
+    },
+    {
+      "displayName": "Levi Jiang",
+      "slug": "22jiang",
+      "year": "2022",
+      "thesisPages": 22,
+      "thesisTitle": "Wander & Buy",
+      "thesisPath": "22jiang/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22jiang",
+      "backgroundImage": "22jiang"
+    },
+    {
+      "displayName": "Maddie McQuinn",
+      "slug": "22gonda",
+      "year": "2022",
+      "thesisPages": 10,
+      "thesisTitle": "Three Little Pigs: A Thirty-Day Diary Comic",
+      "thesisPath": "22gonda/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22gonda",
+      "backgroundImage": "22gonda"
+    },
+    {
+      "displayName": "Mowen Guo",
+      "slug": "22guo",
+      "year": "2022",
+      "thesisPages": 19,
+      "thesisTitle": "The Dream Chasing: Beyond Mediocre Life",
+      "thesisPath": "22guo/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22guo",
+      "backgroundImage": "22guo"
+    },
+    {
+      "displayName": "Sarah Maloney",
+      "slug": "22maloney",
+      "year": "2022",
+      "thesisPages": 5,
+      "thesisTitle": "The World Ends With a Poot!",
+      "thesisPath": "22maloney/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22maloney",
+      "backgroundImage": "22maloney"
+    },
+    {
+      "displayName": "Seewoo Lee",
+      "slug": "22lee",
+      "year": "2022",
+      "thesisPages": 20,
+      "thesisTitle": "Yochu and a Corpse (excerpt)",
+      "thesisPath": "22lee/",
+      "digitalTitle": "TKTKTKTKTKTK",
+      "digitalUrl": "22lee",
+      "backgroundImage": "22lee"
     }
   ]
 }
