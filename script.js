@@ -1,8 +1,22 @@
 // FUNCTIONS
 
+const makeStudentCardDivString = function(slug, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages) {
+    let studentCardDiv;
+    
+    if (!digitalTitle) { 
+        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
+    } else if {
+        studentCardDiv = "<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>";
+    } else {
+        studentCardDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
+    }
+    
+    return studentCardDiv;
+}
+
 // takes student object, returns jQuery object
 function makeStudentCard(student) {
-    let studentDiv = null;
+//    let studentDiv = null;
     var name = student.displayName,
             slug = student.slug,
             thesisUrl = 'thesis.html?student=' + slug,
@@ -10,12 +24,21 @@ function makeStudentCard(student) {
             thesisTitle = student.thesisTitle,
             digitalTitle = student.digitalTitle,
             thesisPages = student.thesisPages;
-    if (!digitalTitle) {
-        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>");
-    } else {
-        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
-    }
-    return studentDiv;
+    
+    
+    
+    
+    return $(makeStudentCardDivString(slug, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages));
+    
+//    if (!digitalTitle) {
+////        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>");
+//        studentDiv = $(studentCardDiv)
+//    } else if {
+////        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
+//    } else {
+////        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
+////    }
+//    return studentDiv;
 };
 
 $.getJSON('data/students.json', function(data) {
