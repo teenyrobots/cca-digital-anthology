@@ -67,42 +67,6 @@
 
     <script src="script.js"></script>
 
-    <!-- <script>
-
-    function setSplash(students) {
-        var rando = Math.floor(Math.random() * students.length);
-        var luckyStudent = students[rando];
-
-        var backgroundImg = "images/backgrounds/" + rando + ".jpg";
-        $('body').css('background-image', 'url(' + backgroundImg + ')');
-
-        $('#luckyStudent').append(luckyStudent.displayName);
-        $('#luckyCartoon').append(luckyStudent.thesisTitle);
-        $('#luckyThesis').attr('href', 'thesis.html?student=' + luckyStudent.slug);
-    }
-
-
-    $(document).ready(function() {
-
-        $.getJSON('data/students.json', function(data) {
-
-            //
-            // set background to random student art
-            //
-            var backgroundStudents = data.students.filter(function(student){
-                return student.backgroundImage !== undefined;
-            });
-
-
-            setSplash(backgroundStudents);
-
-        });
-
-    });
-
-
-    </script> -->
-
 </body>
 
 </html>

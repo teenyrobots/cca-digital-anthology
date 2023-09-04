@@ -924,6 +924,25 @@
       "digitalTitle": "Message Received",
       "digitalUrl": "https://readymag.com/u2741480096/4341864/",
       "backgroundImage": "23miller"
+    },
+    {
+      "displayName": "Erin Andrews",
+      "slug": "23andrews",
+      "year": "2023",
+      "thesisPages": 12,
+      "thesisTitle": "Year One",
+      "thesisPath": "23andrews/",
+      "digitalTitle": "Emophilia",
+      "digitalUrl": "https://readymag.com/u1807208748/4341865/",
+      "backgroundImage": "23andrews"
+    },
+    {
+      "displayName": "Fennek Pinkerton",
+      "slug": "23pinkerton",
+      "year": "2023",
+      "digitalTitle": "Depressed Dad + Cavy Son",
+      "digitalUrl": "https://readymag.com/u1227912686/4354620/",
+      "backgroundImage": "23pinkerton"
     }
   ]
 }
