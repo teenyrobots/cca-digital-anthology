@@ -891,6 +891,39 @@
       "digitalTitle": "Siu (Badly) Teaches: Ukulele",
       "digitalUrl": "22lee",
       "backgroundImage": "22lee"
+    },
+    {
+      "displayName": "Almudena Phillips",
+      "slug": "23phillips",
+      "year": "2023",
+      "thesisPages": 10,
+      "thesisTitle": "Astraea",
+      "thesisPath": "23phillips/",
+      "digitalTitle": "Maleficus Nocte",
+      "digitalUrl": "https://readymag.com/u2216187333/4341862/",
+      "backgroundImage": "23phillips"
+    },
+    {
+      "displayName": "Elana Finkelstein",
+      "slug": "23finkelstein",
+      "year": "2023",
+      "thesisPages": 11,
+      "thesisTitle": "Gameshow Nightmare",
+      "thesisPath": "23finkelstein/",
+      "digitalTitle": "Being Eel Malkofish",
+      "digitalUrl": "https://readymag.com/u8138241/4341870/",
+      "backgroundImage": "23finkelstein"
+    },
+    {
+      "displayName": "Emilie Tamura Miller",
+      "slug": "23miller",
+      "year": "2023",
+      "thesisPages": 12,
+      "thesisTitle": "When Magic Was Real",
+      "thesisPath": "23miller/",
+      "digitalTitle": "Message Received",
+      "digitalUrl": "https://readymag.com/u2741480096/4341864/",
+      "backgroundImage": "23miller"
     }
   ]
 }
