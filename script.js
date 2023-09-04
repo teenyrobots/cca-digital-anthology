@@ -1,18 +1,18 @@
 // FUNCTIONS
 
-const makeStudentCardDivString = function(name, slug, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages) {
+const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages) {
     let studentCardDiv;
     
     if (!digitalTitle) { 
         studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
     } 
     
-//    else if {
-//        studentCardDiv = "<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>";
-//    } 
+    else if (year===2023) {
+        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span></p><span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span></div>`;
+    } 
     
     else {
-        studentCardDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>"+ "</p><span class='digital'><a href='" + digitalUrl + "' target='_blank'><img src='images/cards/digital/" + slug + ".png'><p>" + digitalTitle + "</p></a></span></div>");
+        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span></p><span class='digital'><a href='digital/${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span></div>`;
     }
     
     return studentCardDiv;
@@ -23,13 +23,14 @@ function makeStudentCard(student) {
 //    let studentDiv = null;
     var name = student.displayName,
             slug = student.slug,
+            year = student.year,
             thesisUrl = 'thesis.html?student=' + slug,
-            digitalUrl = 'digital/' + student.digitalUrl,
+            digitalUrl = student.digitalUrl,
             thesisTitle = student.thesisTitle,
             digitalTitle = student.digitalTitle,
             thesisPages = student.thesisPages;
     
-    return $(makeStudentCardDivString(name, slug, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages));
+    return $(makeStudentCardDivString(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages));
     
 //    if (!digitalTitle) {
 ////        studentDiv = $("<div class='studentCard'>" + "<h2>" + name + "</h2><span class='thesis'><a href='" + thesisUrl + "'><img src='images/cards/thesis/" + slug + ".png'><p>" + thesisTitle + "</p></a></span>");
