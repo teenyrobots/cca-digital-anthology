@@ -929,7 +929,7 @@
       "displayName": "Erin Andrews",
       "slug": "23andrews",
       "year": "2023",
-      "thesisPages": 12,
+      "thesisPages": 19,
       "thesisTitle": "Year One",
       "thesisPath": "23andrews/",
       "digitalTitle": "Emophilia",
@@ -943,6 +943,39 @@
       "digitalTitle": "Depressed Dad + Cavy Son",
       "digitalUrl": "https://readymag.com/u1227912686/4354620/",
       "backgroundImage": "23pinkerton"
+    },
+    {
+      "displayName": "Hugh D'Andrade",
+      "slug": "23dandrade",
+      "year": "2023",
+      "thesisPages": 20,
+      "thesisTitle": "The Murder on Glenwood Lane",
+      "thesisPath": "23dandrade/",
+      "digitalTitle": "Making Friends With a Monkey",
+      "digitalUrl": "https://readymag.com/u3578963916/4356158/",
+      "backgroundImage": "23dandrade"
+    },
+    {
+      "displayName": "Isaac Li",
+      "slug": "23ili",
+      "year": "2023",
+      "thesisPages": 12,
+      "thesisTitle": "A Doll's Story",
+      "thesisPath": "23ili/",
+      "digitalTitle": "Monster in the Room",
+      "digitalUrl": "TKTKTKTK",
+      "backgroundImage": "23ili"
+    },
+    {
+      "displayName": "Jamie Straw",
+      "slug": "23straw",
+      "year": "2023",
+      "thesisPages": 19,
+      "thesisTitle": "Heroic Doses",
+      "thesisPath": "23straw/",
+      "digitalTitle": "Mushrooms, Mycelia & Mycorrhiza",
+      "digitalUrl": "https://readymag.com/u1277670418/4341869/",
+      "backgroundImage": "23straw"
     }
   ]
 }
