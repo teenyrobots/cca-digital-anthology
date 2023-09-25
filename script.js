@@ -8,7 +8,7 @@ const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUr
     } 
     
     else if (!thesisTitle) {
-        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='digital'><a href='${digitalUrll}'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
+        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='digital'><a href='${digitalUrl}'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
     }
     
     else {
@@ -24,16 +24,10 @@ function makeStudentCard(student) {
             slug = student.slug,
             year = student.year,
             thesisUrl = 'thesis.html?student=' + slug,
-            digitalUrl = 'digital/' +student.digitalUrl,
+            digitalUrl = student.digitalUrl,
             thesisTitle = student.thesisTitle,
             digitalTitle = student.digitalTitle,
             thesisPages = student.thesisPages;
-    
-    if (year===2023) {
-        digitalUrl = student.digitalUrl;
-    };
-    
-    console.log(digitalUrl);
         
     return $(makeStudentCardDivString(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages));
 };
