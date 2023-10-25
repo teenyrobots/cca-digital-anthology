@@ -8,7 +8,7 @@ const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUr
     } 
     
     else if (!thesisTitle) {
-        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='digital'><a href='${digitalUrl}'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
+        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
     }
     
     else {
