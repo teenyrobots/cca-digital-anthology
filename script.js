@@ -1,19 +1,49 @@
 // FUNCTIONS
 
-const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages) {
+// OLD card div string function
+//const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages) {
+//    let studentCardDiv;
+//    
+//    if (!digitalTitle) { 
+//        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
+//    } 
+//    
+//    else if (!thesisTitle) {
+//        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
+//    }
+//    
+//    else {
+//        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span></p><span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span></div>`;
+//    }
+//    
+//    return studentCardDiv;
+//}
+
+// NEW card div string function
+const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages, website) {
     let studentCardDiv;
+    let nameField = '';
+    let thesisField = '';
+    let digitalField = '';
+    let webField = '';
     
-    if (!digitalTitle) { 
-        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
-    } 
-    
-    else if (!thesisTitle) {
-        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
+    if (name) {
+        nameField = `<h2>${name}</h2>`;
     }
     
-    else {
-        studentCardDiv = `<div class='studentCard'><h2>${name}</h2><span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span></p><span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span></div>`;
+    if (thesisTitle) {
+        thesisField = `<span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
     }
+    
+    if (digitalTitle) {
+        digitalField = `<span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
+    }
+    
+    if (website) {
+        webField = `<a href='${website}' target='_blank'>See more work by ${name}</a>`;
+    }
+    
+    studentCardDiv = `<div class='studentCard'>${nameField}${thesisField}${digitalField}${webField}</div>`;
     
     return studentCardDiv;
 }
