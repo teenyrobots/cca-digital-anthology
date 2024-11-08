@@ -57,9 +57,10 @@ function makeStudentCard(student) {
             digitalUrl = student.digitalUrl,
             thesisTitle = student.thesisTitle,
             digitalTitle = student.digitalTitle,
-            thesisPages = student.thesisPages;
+            thesisPages = student.thesisPages,
+            website = student.website;
         
-    return $(makeStudentCardDivString(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages));
+    return $(makeStudentCardDivString(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages, website));
 };
 
 $.getJSON('data/students.json', function(data) {
