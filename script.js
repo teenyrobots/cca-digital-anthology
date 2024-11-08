@@ -22,14 +22,10 @@
 // NEW card div string function
 const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUrl, thesisTitle, digitalTitle, thesisPages, website) {
     let studentCardDiv;
-    let nameField = '';
+    let nameField = `<h2>${name}</h2>`;
     let thesisField = '';
     let digitalField = '';
     let webField = '';
-    
-    if (name) {
-        nameField = `<h2>${name}</h2>`;
-    }
     
     if (thesisTitle) {
         thesisField = `<span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
@@ -40,7 +36,7 @@ const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUr
     }
     
     if (website) {
-        webField = `<a href='${website}' target='_blank'>See more work by ${name}</a>`;
+        webField = `<a href='${website}' target='_blank' class='studentWeblinks'>More work by ${name}</a>`;
     }
     
     studentCardDiv = `<div class='studentCard'>${nameField}${thesisField}${digitalField}${webField}</div>`;

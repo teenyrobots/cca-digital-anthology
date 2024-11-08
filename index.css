@@ -260,6 +260,12 @@ p {
     margin-top: 1em;
 }
 
+a.studentWeblinks {
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 1rem auto;
+}
+
 /* Use this to control the way the "year" cards are reflowing*/
 .cardDad-buttonTiles {
     max-width: 800px !important;
