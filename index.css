@@ -226,7 +226,6 @@ p {
     opacity: .5;
 }
 
-
 .thesis p, .digital p {
     background-color: black;
     position: relative;
@@ -244,7 +243,15 @@ p {
 }
 
 .thesis, .digital {
-    margin: 0 1rem;
+    margin: .5rem auto;
+}
+
+a.studentWeblinks {
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 1rem;
+    font-weight: 300;
+    font-size: 1.15em;
 }
 
 .studentCard h2 {
@@ -262,12 +269,6 @@ p {
     max-width: 1000px;
     margin: auto;
     margin-top: 1em;
-}
-
-a.studentWeblinks {
-    text-transform: uppercase;
-    text-decoration: underline;
-    margin: 1rem auto;
 }
 
 /* Use this to control the way the "year" cards are reflowing*/
