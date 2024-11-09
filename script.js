@@ -36,7 +36,7 @@ const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUr
     }
     
     if (website) {
-        webField = `<a href='${website}' target='_blank' class='studentWeblinks'>More work by ${name}</a>`;
+        webField = `<a href='${website}' target='_blank' class='studentWeblinks'>More work by<br>${name}</a>`;
     }
     
     studentCardDiv = `<div class='studentCard'>${nameField}${thesisField}${digitalField}${webField}</div>`;

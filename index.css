@@ -252,6 +252,7 @@ a.studentWeblinks {
     margin: 1rem;
     font-weight: 300;
     font-size: 1.15em;
+    display: inline-block;
 }
 
 .studentCard h2 {
