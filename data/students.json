@@ -555,10 +555,6 @@
       "backgroundImage": 33
     },
 
-
-
-
-
     {
       "displayName": "Will Betke-Brunswick",
       "slug": "20betkebrunswick",
@@ -568,7 +564,8 @@
       "thesisPath": "20betkebrunswick/",
       "digitalTitle": "Logarithms Why? How? Who Cares?",
       "digitalUrl": "digital/20betkebrunswick/",
-      "backgroundImage": "20betkebrunswick"
+      "backgroundImage": "20betkebrunswick",
+      "website": "https://willbetkebrunswick.com"
     },
     {
       "displayName": "Daniel Dahan",
@@ -579,7 +576,8 @@
       "thesisPath": "20dahan/",
       "digitalTitle": "Your Car is Gone",
       "digitalUrl": "digital/20dahan",
-      "backgroundImage": "20dahan"
+      "backgroundImage": "20dahan",
+      "website": "https://adventureartwork.com/about-me"
     },
     {
       "displayName": "Talia Dutton",
@@ -590,7 +588,8 @@
       "thesisPath": "20dutton/",
       "digitalTitle": "Going Down?",
       "digitalUrl": "digital/20dutton",
-      "backgroundImage": "20dutton"
+      "backgroundImage": "20dutton",
+      "website": "https://taliadutton.com"
     },
     {
       "displayName": "Dustin Garcia",
@@ -601,7 +600,8 @@
       "thesisPath": "20garcia/",
       "digitalTitle": "La Linea",
       "digitalUrl": "digital/20garcia",
-      "backgroundImage": "20garcia"
+      "backgroundImage": "20garcia",
+      "website": "https://www.dustooned.com"
     },
     {
       "displayName": "Hinahina Gray",
@@ -612,7 +612,8 @@
       "thesisPath": "20gray/",
       "digitalTitle": "Exhale",
       "digitalUrl": "digital/20gray",
-      "backgroundImage": "20gray"
+      "backgroundImage": "20gray",
+      "website": "https://hinahina.art"
     },
     {
       "displayName": "Lawrence Lindell",
@@ -623,7 +624,8 @@
       "thesisPath": "20lindell/",
       "digitalTitle": "",
       "digitalUrl": "digital/",
-      "backgroundImage": "20lindell"
+      "backgroundImage": "20lindell",
+      "website": "https://lawrencelindell.com"
     },
     {
       "displayName": "Michael Rossi",
@@ -634,7 +636,8 @@
       "thesisPath": "20rossi/",
       "digitalTitle": "Pigeon in the City",
       "digitalUrl": "digital/20rossi",
-      "backgroundImage": "20rossi"
+      "backgroundImage": "20rossi",
+      "website": "https://illustratormike.com"
     },
     {
       "displayName": "Sonya Saturday",
@@ -645,7 +648,8 @@
       "thesisPath": "20saturday/",
       "digitalTitle": "Revolution",
       "digitalUrl": "digital/20saturday",
-      "backgroundImage": "20saturday"
+      "backgroundImage": "20saturday",
+      "website": "https://sonyasaturday.com"
     },
     {
       "displayName": "Laura Shoemaker",
@@ -656,7 +660,8 @@
       "thesisPath": "20shoemaker/",
       "digitalTitle": "Self Checkout",
       "digitalUrl": "digital/20shoemaker",
-      "backgroundImage": "20shoemaker"
+      "backgroundImage": "20shoemaker",
+      "website": "https://www.instagram.com/shoemarkers"
     },
     {
       "displayName": "Lucas Soto",
@@ -678,7 +683,8 @@
       "thesisPath": "20tomasi/",
       "digitalTitle": "The Crab",
       "digitalUrl": "digital/20tomasi",
-      "backgroundImage": "20tomasi"
+      "backgroundImage": "20tomasi",
+      "website": "https://www.clairetomasi.com"
     },
     {
       "displayName": "Gaia Weise",
@@ -689,10 +695,9 @@
       "thesisPath": "20weise/",
       "digitalTitle": "",
       "digitalUrl": "digital/",
-      "backgroundImage": "20weise"
+      "backgroundImage": "20weise",
+      "website": "http://gaiaw.xyz"
     },
-
-
 
     {
       "displayName": "Xiaoan Chen",
@@ -703,7 +708,8 @@
       "thesisPath": "21chen/",
       "digitalTitle": "Don't Go Chase the Waterfall",
       "digitalUrl": "digital/21chen",
-      "backgroundImage": "21chen"
+      "backgroundImage": "21chen",
+      "website": "https://www.instagram.com/chenxploring/"
     },
     {
       "displayName": "Kit Fraser",
@@ -714,7 +720,8 @@
       "thesisPath": "21kit/",
       "digitalTitle": "Poppy",
       "digitalUrl": "digital/21kit",
-      "backgroundImage": "21kit"
+      "backgroundImage": "21kit",
+      "website": "http://kitfraser.com/comics"
     },
     {
       "displayName": "Ness Ilene Garza",
@@ -725,7 +732,8 @@
       "thesisPath": "21ness/",
       "digitalTitle": "",
       "digitalUrl": "digital/",
-      "backgroundImage": "21ness"
+      "backgroundImage": "21ness",
+      "website": "https://www.nessilenegarza.com"
     },
     {
       "displayName": "J.M. Hunter",
@@ -736,7 +744,8 @@
       "thesisPath": "21hunter/",
       "digitalTitle": "Note 2 Self: Hope Floats...Away",
       "digitalUrl": "digital/21hunter",
-      "backgroundImage": "21hunter"
+      "backgroundImage": "21hunter",
+      "website": "https://www.instagram.com/jm_indy_hunter/"
     },
     {
       "displayName": "Jackie Kirby",
@@ -747,7 +756,8 @@
       "thesisPath": "21jackie/",
       "digitalTitle": "Last Night I Dreamt I Was Married to Your Ass",
       "digitalUrl": "digital/21jackie",
-      "backgroundImage": "21jackie"
+      "backgroundImage": "21jackie",
+      "website": "https://www.instagram.com/doomsdazedtfc/"
     },
     {
       "displayName": "Melissa \"Sawhand\" Philley",
@@ -758,7 +768,8 @@
       "thesisPath": "21melissa/",
       "digitalTitle": "When The Lights Go Out",
       "digitalUrl": "digital/21melissa2",
-      "backgroundImage": "21melissa"
+      "backgroundImage": "21melissa",
+      "website": "https://www.sawhand.com"
     },
     {
       "displayName": "Aster Ricks",
@@ -769,7 +780,8 @@
       "thesisPath": "21aster/",
       "digitalTitle": "Begin",
       "digitalUrl": "digital/21aster",
-      "backgroundImage": "21aster"
+      "backgroundImage": "21aster",
+      "website": "https://www.asterricks.com"
     },
     {
       "displayName": "Christine Villanueva",
@@ -780,7 +792,8 @@
       "thesisPath": "21christine/",
       "digitalTitle": "",
       "digitalUrl": "digital/",
-      "backgroundImage": "21christine"
+      "backgroundImage": "21christine",
+      "website": "https://christinevillanueva.net"
     },
     {
       "displayName": "Kristen Lynn Zimmerman",
@@ -791,7 +804,8 @@
       "thesisPath": "21kristen/",
       "digitalTitle": "The Beginning",
       "digitalUrl": "digital/21kristen",
-      "backgroundImage": "21kristen"
+      "backgroundImage": "21kristen",
+      "website": "https://www.kristenlynnzimmerman.com"
     },
     {
       "displayName": "A.G. Moore",
