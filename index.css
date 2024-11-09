@@ -243,6 +243,10 @@ p {
     text-decoration: none;
 }
 
+.thesis, .digital {
+    margin: 0 1rem;
+}
+
 .studentCard h2 {
   display: block;
   text-transform: uppercase;
