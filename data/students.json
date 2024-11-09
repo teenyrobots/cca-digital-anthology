@@ -8,7 +8,8 @@
       "thesisTitle": "Flood",
       "digitalTitle": "Undertow",
       "digitalUrl": "digital/15escobar/escobar.html",
-      "thesisPath": "15escobar/"
+      "thesisPath": "15escobar/",
+      "website": "http://www.trinidadescobar.com"
     },
     {
       "displayName": "Bex Freund",
@@ -19,7 +20,8 @@
       "digitalTitle": "Aisling",
       "digitalUrl": "digital/15freund/freund.html",
       "thesisPath": "15freund/",
-      "backgroundImage": "2"
+      "backgroundImage": "2",
+      "website": "https://www.bexfreund.com"
     },
     {
       "displayName": "Ashley Guillory",
@@ -30,7 +32,8 @@
       "digitalTitle": "Morning Melody",
       "digitalUrl": "digital/15guillory/guillory.html",
       "thesisPath": "15guillory/",
-      "backgroundImage": "1"
+      "backgroundImage": "1",
+      "website": "https://www.instagram.com/ashleyrguillory/"
     },
     {
       "displayName": "David Kelly",
@@ -40,7 +43,8 @@
       "thesisTitle": "Shorts",
       "digitalTitle": "How to Catch a Spider",
       "digitalUrl": "digital/15kelly/page1.html",
-      "thesisPath": "15kelly/"
+      "thesisPath": "15kelly/",
+      "website": "https://www.instagram.com/davidkellycomics/"
     },
     {
       "displayName": "Maia Kobabe",
@@ -51,7 +55,8 @@
       "digitalTitle": "Night Driving",
       "digitalUrl": "digital/15kobabe/kobabe.html",
       "thesisPath": "15kobabe/",
-      "backgroundImage": "3"
+      "backgroundImage": "3",
+      "website": "https://redgoldsparkspress.com"
     },
     {
       "displayName": "Jacob Magraw",
@@ -61,7 +66,8 @@
       "thesisTitle": "Lost Puppet Show",
       "digitalTitle": "The Base",
       "digitalUrl": "digital/15magraw/magraw.html",
-      "thesisPath": "15magraw/"
+      "thesisPath": "15magraw/",
+      "website": "https://www.instagram.com/jacobmagraw/"
     },
     {
       "displayName": "Samuel Sattin",
@@ -71,7 +77,8 @@
       "thesisTitle": "Dad Sleeps Armageddon",
       "digitalTitle": "Loon",
       "digitalUrl": "digital/15sattin/sattin.html",
-      "thesisPath": "15sattin/"
+      "thesisPath": "15sattin/",
+      "website": "https://www.samuelsattin.com"
     },
     {
       "displayName": "Nancy Teresa",
@@ -92,7 +99,8 @@
       "digitalTitle": "I Went on a Walk and I Saw a Snake",
       "digitalUrl": "digital/15white/white.html",
       "thesisPath": "15white/",
-      "backgroundImage": "4"
+      "backgroundImage": "4",
+      "website": "https://www.joshwhite.me"
     },
     {
       "displayName": "Shane McDermott",
@@ -102,7 +110,8 @@
       "thesisTitle": "The Seahorse Adventures",
       "digitalTitle": "",
       "digitalUrl": "digital/",
-      "thesisPath": "15mcdermott/"
+      "thesisPath": "15mcdermott/",
+      "website": "https://www.csmcdermott.com"
     },
     {
       "displayName": "Ryan Bitinis",
@@ -113,7 +122,8 @@
       "digitalTitle": "This Will All End in Flames",
       "digitalUrl": "digital/16bitinis/comics.html",
       "thesisPath": "16bitinis/",
-      "backgroundImage": "5"
+      "backgroundImage": "5",
+      "website": "https://ryanvbitinis.com"
     },
     {
       "displayName": "Kayan Cheung-Miaw",
@@ -124,7 +134,8 @@
       "digitalTitle": "The Experience of Many Lifetimes",
       "digitalUrl": "digital/16cheungmiaw/kayan_cover.html",
       "thesisPath": "16cheungmiaw/",
-      "backgroundImage": "6"
+      "backgroundImage": "6",
+      "website": "https://kayancheung.tumblr.com"
     },
     {
       "displayName": "Peter Glanting",
@@ -134,7 +145,8 @@
       "thesisTitle": "Tomorrow Jerks #2",
       "digitalTitle": "Boardsock Empire",
       "digitalUrl": "digital/16glanting/static-sock-town-a.html",
-      "thesisPath": "16glanting/"
+      "thesisPath": "16glanting/",
+      "website": "https://www.peterglantingdraws.com"
     },
     {
       "displayName": "Joseph Hewitt",
@@ -144,7 +156,8 @@
       "thesisTitle": "How to Be Human, Day One",
       "digitalTitle": "Ghost Radio",
       "digitalUrl": "digital/16hewitt/index.html",
-      "thesisPath": "16hewitt/"
+      "thesisPath": "16hewitt/",
+      "website": "http://polarbearcomix.com"
     },
     {
       "displayName": "Masami Inoue",
@@ -166,7 +179,8 @@
       "digitalTitle": "Brocedurally Generated",
       "digitalUrl": "digital/16mcgeetubb/index.html",
       "thesisPath": "16mcgeetubb/",
-      "backgroundImage": "8"
+      "backgroundImage": "8",
+      "website": "https://www.cordeliadillon.com"
     },
     {
       "displayName": "Paul Morehead",
@@ -176,7 +190,8 @@
       "thesisTitle": "The Free Radicals",
       "digitalTitle": "James and the Oak",
       "digitalUrl": "digital/16morehead/James_and_the_Oakp1.html",
-      "thesisPath": "16morehead/"
+      "thesisPath": "16morehead/",
+      "website": "https://pauljmorehead.myportfolio.com/projects"
     },
     {
       "displayName": "Kristin Olson",
@@ -187,7 +202,8 @@
       "digitalTitle": "The Crystal Ball",
       "digitalUrl": "digital/16olson/pg1.html",
       "thesisPath": "16olson/",
-      "backgroundImage": "9"
+      "backgroundImage": "9",
+      "website": "https://www.instagram.com/annakoak/"
     },
     {
       "displayName": "Wei-Ching Shyu",
@@ -197,7 +213,8 @@
       "thesisTitle": "Licht",
       "digitalTitle": "A Walk in the City",
       "digitalUrl": "digital/16shyu/index.html",
-      "thesisPath": "16shyu/"
+      "thesisPath": "16shyu/",
+      "website": "http://inkyorange.com"
     },
     {
       "displayName": "Rachell Sumpter",
@@ -207,7 +224,8 @@
       "thesisTitle": "Mazy & Gus",
       "digitalTitle": "",
       "digitalUrl": "digital/",
-      "thesisPath": "16sumpter/"
+      "thesisPath": "16sumpter/",
+      "website": "https://www.instagram.com/rachellsumpter/"
     },
     {
       "displayName": "Samantha Nicole Traina",
@@ -217,7 +235,8 @@
       "thesisTitle": "Above the Surface",
       "digitalTitle": "Devil and a Gun",
       "digitalUrl": "digital/16traina/Devil.html",
-      "thesisPath": "16traina/"
+      "thesisPath": "16traina/",
+      "website": "https://www.samanthanicoletraina.com"
     },
     {
       "displayName": "Lyssette Williams",
@@ -228,7 +247,8 @@
       "digitalTitle": "Snack Time",
       "digitalUrl": "digital/16williams/comics.html",
       "thesisPath": "16williams/",
-      "backgroundImage": "10"
+      "backgroundImage": "10",
+      "website": "https://lnwilliams.com"
     },
 
 
@@ -244,7 +264,8 @@
       "digitalTitle": "The Key & Cup",
       "digitalUrl": "digital/17bain/index.html",
       "thesisPath": "17bain/",
-      "backgroundImage": "11"
+      "backgroundImage": "11",
+      "website": "https://trismorrigan.com"
     },
     {
       "displayName": "Eli Bishop",
@@ -255,7 +276,8 @@
       "digitalTitle": "Spex",
       "digitalUrl": "digital/17bishop/index.html",
       "thesisPath": "17bishop/",
-      "backgroundImage": "12"
+      "backgroundImage": "12",
+      "website": "http://www.errorbar.net"
     },
     {
       "displayName": "Craig Campbell",
@@ -266,7 +288,8 @@
       "digitalTitle": "Skinhead Mixtape",
       "digitalUrl": "digital/17campbell/index.html",
       "thesisPath": "17campbell/",
-      "backgroundImage": "13"
+      "backgroundImage": "13",
+      "website": "http://www.cmcampbellart.com"
     },
     {
       "displayName": "Lauren Davis",
@@ -276,7 +299,8 @@
       "thesisTitle": "Meet Your Supreme Court Justices",
       "digitalTitle": "Obergefell Family Tree",
       "digitalUrl": "digital/17davis/index.html",
-      "thesisPath": "17davis/"
+      "thesisPath": "17davis/",
+      "website": "https://www.elledee.com"
     },
     {
       "displayName": "Garrett Gainey",
@@ -287,7 +311,8 @@
       "digitalTitle": "Dungeon Dude: Quest for the Golden Duck",
       "digitalUrl": "digital/17gainey/index.html",
       "thesisPath": "17gainey/",
-      "backgroundImage": "14"
+      "backgroundImage": "14",
+      "website": "https://www.instagram.com/gaineygraphics/"
     },
     {
       "displayName": "Patrick Lay",
@@ -298,7 +323,8 @@
       "digitalTitle": "Look Beneath",
       "digitalUrl": "digital/17lay/index.html",
       "thesisPath": "17lay/",
-      "backgroundImage": "15"
+      "backgroundImage": "15",
+      "website": "https://www.patricklaycomics.com"
     },
     {
       "displayName": "Yael Leah Levy",
@@ -308,7 +334,8 @@
       "thesisTitle": "Flights",
       "digitalTitle": "Mermaid Beach Snorkeling",
       "digitalUrl": "digital/17levy/index.html",
-      "thesisPath": "17levy/"
+      "thesisPath": "17levy/",
+      "website": "https://www.leahyaellevy.com/"
     },
     {
       "displayName": "Amber Padilla",
@@ -318,7 +345,8 @@
       "thesisTitle": "Reel Love",
       "digitalTitle": "A Kitten's Tale",
       "digitalUrl": "digital/17padilla/index.html",
-      "thesisPath": "17padilla/"
+      "thesisPath": "17padilla/",
+      "website": "https://www.amberpadilla.com"
     },
     {
       "displayName": "Meggie Ramm",
@@ -328,7 +356,8 @@
       "thesisTitle": "Stick World: Chapter 2",
       "digitalTitle": "EXPLORE THE INTERNET",
       "digitalUrl": "digital/17ramm/index.html",
-      "thesisPath": "17ramm/"
+      "thesisPath": "17ramm/",
+      "website": "http://www.meggieramm.com"
     },
 
 
@@ -344,7 +373,8 @@
       "digitalTitle": "MARS 2056",
       "digitalUrl": "digital/18borst/index.html",
       "thesisPath": "18borst/",
-      "backgroundImage": "15"
+      "backgroundImage": "15",
+      "website": "https://www.instagram.com/kellynillustrates/"
     },
     {
       "displayName": "Phillip Fleming",
@@ -355,7 +385,8 @@
       "digitalTitle": "The Final Round",
       "digitalUrl": "digital/18fleming/index.html",
       "thesisPath": "18fleming/",
-      "backgroundImage": "16"
+      "backgroundImage": "16",
+      "website": "http://pflemingart.com"
     },
     {
       "displayName": "Guo Tianyi",
@@ -366,7 +397,8 @@
       "digitalTitle": "Fox & Rabbit",
       "digitalUrl": "digital/18guo/fr1-1.html",
       "thesisPath": "18guo/",
-      "backgroundImage": "17"
+      "backgroundImage": "17",
+      "website": "https://noe1993.wixsite.com/website"
     },
     {
       "displayName": "Sean Marney",
@@ -377,7 +409,8 @@
       "digitalTitle": "The Future Now",
       "digitalUrl": "digital/18marney/index.html",
       "thesisPath": "18marney/",
-      "backgroundImage": "18"
+      "backgroundImage": "18",
+      "website": "https://seanmarney.com"
     },
     {
       "displayName": "Fouad Mezher",
@@ -388,7 +421,8 @@
       "digitalTitle": "Bradley's Vison Quest",
       "digitalUrl": "digital/18mezher/index.html",
       "thesisPath": "18mezher/",
-      "backgroundImage": "19"
+      "backgroundImage": "19",
+      "website": "https://fouadmezher.com"
     },
     {
       "displayName": "Andrew Simpson",
@@ -410,7 +444,8 @@
       "digitalTitle": "",
       "digitalUrl": "digital/",
       "thesisPath": "18watson/",
-      "backgroundImage": "22"
+      "backgroundImage": "22",
+      "website": "https://www.dtstoryart.com/illustrations"
     },
     {
       "displayName": "Eric Wong",
@@ -421,7 +456,8 @@
       "digitalTitle": "MausIII: The Movie",
       "digitalUrl": "digital/18wong/index.html",
       "thesisPath": "18wong/",
-      "backgroundImage": "21"
+      "backgroundImage": "21",
+      "website": "https://www.webtoons.com/en/canvas/black-ghost/list?title_no=793035"
     },
 
 
@@ -437,13 +473,9 @@
       "digitalTitle": "Graze",
       "digitalUrl": "digital/19barnes/index.html",
       "thesisPath": "19barnes/",
-      "backgroundImage": 23
+      "backgroundImage": 23,
+      "website": "https://www.sierrabravoart.com"
     },
-
-
-
-
-
     {
       "displayName": "Alex Combs",
       "slug": "combs",
@@ -453,7 +485,8 @@
       "digitalTitle": "Magical Boys vs Zombies",
       "digitalUrl": "digital/19combs/index.html",
       "thesisPath": "19combs/",
-      "backgroundImage": 24
+      "backgroundImage": 24,
+      "website": "https://alexlcombs.com/about/"
     },
     {
       "displayName": "Samia Fakih",
@@ -464,7 +497,8 @@
       "digitalTitle": "Neon Fruits",
       "digitalUrl": "digital/19fakih/index.html",
       "thesisPath": "19fakih/",
-      "backgroundImage": 25
+      "backgroundImage": 25,
+      "website": "https://samiafakih.com"
     },
     {
       "displayName": "Shuchita Mishra",
@@ -475,7 +509,8 @@
       "digitalTitle": "Runaway Train",
       "digitalUrl": "digital/19mishra/index.html",
       "thesisPath": "19mishra/",
-      "backgroundImage": 26
+      "backgroundImage": 26,
+      "website": "https://www.shuchitamishra.com"
     },
     {
       "displayName": "Breena Nuñez",
@@ -486,7 +521,8 @@
       "digitalTitle": "You Can't Hate It Until You Love It",
       "digitalUrl": "digital/19nunez/index.html",
       "thesisPath": "19nunez/",
-      "backgroundImage": 27
+      "backgroundImage": 27,
+      "website": "https://www.breenache.com"
     },
     {
       "displayName": "Kameron Peck",
@@ -497,7 +533,8 @@
       "digitalTitle": "F*ck Boy & The Re-Belles",
       "digitalUrl": "digital/19peck/index.html",
       "thesisPath": "19peck/",
-      "backgroundImage": 28
+      "backgroundImage": 28,
+      "website": "https://kampeck.com/"
     },
     {
       "displayName": "Maxi Rodriguez",
@@ -508,7 +545,8 @@
       "digitalTitle": "Dating A Med Student",
       "digitalUrl": "digital/19rodriguezm/index.html",
       "thesisPath": "19rodriguezm/",
-      "backgroundImage": 29
+      "backgroundImage": 29,
+      "website": "https://www.instagram.com/kasutoproductions/"
     },
     {
       "displayName": "Nicky Rodriguez",
@@ -519,7 +557,8 @@
       "digitalTitle": "As The Tide Turns",
       "digitalUrl": "digital/19rodriguezn/index.html",
       "thesisPath": "19rodriguezn/",
-      "backgroundImage": 30
+      "backgroundImage": 30,
+      "website": "https://www.artofnickyrodriguez.com"
     },
     {
       "displayName": "Samuel Soto-Saines",
@@ -530,7 +569,8 @@
       "digitalTitle": "Ballad of Daedalus",
       "digitalUrl": "digital/19sotosaines/index.html",
       "thesisPath": "19sotosaines/",
-      "backgroundImage": 31
+      "backgroundImage": 31,
+      "website": "http://sainezart.com"
     },
     {
       "displayName": "Haley Spaeth",
@@ -541,7 +581,8 @@
       "digitalTitle": "Maggie's Magic Shop",
       "digitalUrl": "digital/19spaeth/index.html",
       "thesisPath": "19spaeth/",
-      "backgroundImage": 32
+      "backgroundImage": 32,
+      "website": "https://www.instagram.com/hscomicstudio/"
     },
     {
       "displayName": "Sean Timm",
@@ -552,7 +593,8 @@
       "digitalTitle": "At The Mountain Of Feathers",
       "digitalUrl": "digital/19timm/index.html",
       "thesisPath": "19timm/",
-      "backgroundImage": 33
+      "backgroundImage": 33,
+      "website": "http://www.seanptimm.com"
     },
 
     {
