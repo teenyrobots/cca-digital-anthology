@@ -28,7 +28,7 @@ const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUr
     let webField = '';
     
     if (thesisTitle) {
-        thesisField = `<span class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></span>`;
+        thesisField = `<div class='thesis'><a href='${thesisUrl}'><img src='images/cards/thesis/${slug}.png'><p>${thesisTitle}</p></a></div>`;
     }
     
     if (digitalTitle) {
