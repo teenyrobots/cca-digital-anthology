@@ -32,7 +32,7 @@ const makeStudentCardDivString = function(name, slug, year, thesisUrl, digitalUr
     }
     
     if (digitalTitle) {
-        digitalField = `<span class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></span>`;
+        digitalField = `<div class='digital'><a href='${digitalUrl}' target='_blank'><img src='images/cards/digital/${slug}.png'><p>${digitalTitle}</p></a></div>`;
     }
     
     if (website) {
