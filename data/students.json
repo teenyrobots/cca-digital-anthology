@@ -1423,16 +1423,10 @@
       "digitalUrl": "https://readymag.website/u1131165582/5703583/",
       "website": "https://riverviccoart.com/"
     },
-    {
-    "displayName": "7999",
-    "slug": "26-7999",
-    "year": "2026",
-    "thesisPages": 10,
-    "thesisTitle": "Guidance",
-    "thesisPath": "26-7999/",
-    "digitalTitle": "undecided",
-    "digitalUrl": "https://readymag.website/u1557981451/6477457/"
-    },
+
+
+
+    
     {
     "displayName": "Layia Bolden",
     "slug": "26bolden",
@@ -1564,6 +1558,16 @@
     "digitalTitle": "Pastures of Plenty",
     "digitalUrl": "https://readymag.website/u1732868804/6454439/",
     "website": "https://leedeancomics.com/"
+    },
+    {
+    "displayName": "7999",
+    "slug": "26-7999",
+    "year": "2026",
+    "thesisPages": 10,
+    "thesisTitle": "Guidance",
+    "thesisPath": "26-7999/",
+    "digitalTitle": "undecided",
+    "digitalUrl": "https://readymag.website/u1557981451/6477457/"
     }
   ]
 }
